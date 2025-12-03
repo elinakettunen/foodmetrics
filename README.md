@@ -1,11 +1,10 @@
-**Work in progress**  
-This repository is under development.
+# Food Properties Database
 
-It will serve as a resource for researchers in the field of nutrition science. The database and scripts are being developed to calculate Animal Source Energy Percentages (ASEPs) using food item codes from the Finnish Fineli food composition database.
+This database of foods and drinks, identified by their codes in the [Fineli](https://fineli.fi/fineli/en/index) database by Finnish Institute for Health and Welfare, contains information about the proportional animal-source content within a food item, among other food item attributes.
 
-Future versions may also support mapping to **FoodEx2** codes (EFSA's food classification system), enhancing compatibility with European dietary datasets.
+This database is mainteined and updated by Elina Kettunen, a doctoral researcher at the Department of Food and Nutrition at the University of Helsinki. Timestamp of the latest update is visible in the GitHub commit history. 
 
 ---
 
 **License**  
-`foodmetrics © 2024` by Elina Kettunen is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+`foodmetrics © 2025` by Elina Kettunen is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
