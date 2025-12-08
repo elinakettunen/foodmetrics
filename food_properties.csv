@@ -803,6 +803,7 @@ F030391,0.0,1407,False,False,False,"Täysmehu, päärynätäysmehu"
 F030392,0.0,1406,False,False,False,"Mehu, mehujuoma"
 F030394,0.0,1406,False,False,False,"Mehujuomatiiviste, keskiarvo"
 F030395,0.0,1407,False,False,False,Karpalo-puolukkatäysmehu
+F030396,0.0,1406,False,False,False,"Mehu, mehujuoma, sokeriton, keinotekoisesti makeutettu"
 F030406,1.0,404,False,False,False,"Raejuusto, rasvaa 2-5 %, laktoositon"
 F030423,1.0,401,False,False,False,"Maito, rasvaton, laktoositon maitojuoma, d-vitamiinia 1 ug"
 F030443,1.0,404,False,False,False,"Tuorejuusto, rasvaa 15 %, maustettu, creme bonjour light"
