@@ -2084,7 +2084,7 @@ PR0001259,0.0,302,False,False,False,Jalotofu maustamaton tofu 270g luomu
 PR0001272,0.0,302,False,False,False,Bon Vegan 100g viherpippuri-kasvisleikkele
 PR0001282,1.0,402,False,False,False,Juustoportti Hyvin sokeroimaton jogurtti 150 g banaani laktoositon
 PR0001299,0.0,906,False,False,False,Porkkanaraaste
-PR0001300,0.0,404,False,False,False,"Juustoraaste (juusto, tuotekeskiarvo)"
+PR0001300,1.0,404,False,False,False,"Juustoraaste (juusto, tuotekeskiarvo)"
 PR0001301,0.0,903,False,False,False,"Kirsikkatomaatti, helmitomaatti"
 PR0001302,0.0,1406,False,False,False,Mehukatti Trip Vadelmamehujuoma 2dl
 PR0001307,0.0,1406,False,False,False,Raikastamo Luomu Mustikka-Omena pillimehu 200ml
