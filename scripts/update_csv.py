@@ -40,6 +40,9 @@ def update_from_google_sheet():
             ).drop(
                 columns=['mira2_count','total','disaggregated','information']
             )
+            import numpy as np
+            gsheet_df.replace(r'^\s*$', np.nan, regex=True, inplace=True)
+            
             db = read(DB_FILE_NAME)
             combined = db.combine_first(gsheet_df)[db.columns.tolist() + [col for col in gsheet_df.columns if col not in db.columns]] #preserve column order
 

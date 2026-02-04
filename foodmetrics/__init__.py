@@ -16,7 +16,24 @@ FOOD_PROP_DTYPES = {
     'has_fish': 'boolean',
     'has_meat_or_poultry': 'boolean',
     'has_seafood': 'boolean',
-    'name': 'str'
+    'name': 'str',
+	'cereals': 'Float32',
+	'whole_grain': 'Float32',
+	'tubers_roots': 'Float32',
+	'vegetables': 'Float32',
+	'fruits': 'Float32',
+	'nuts': 'Float32',
+	'legumes': 'Float32',
+	'dairy': 'Float32',
+	'poultry': 'Float32',
+	'fish': 'Float32',
+	'eggs': 'Float32',
+	'meat': 'Float32',
+	'plant_oils_unsaturated': 'Float32',
+	'plant_oils_saturated': 'Float32',
+	'animal_fats': 'Float32',
+	'sugar': 'Float32',
+	'none': 'Float32'
 }
 
 def get_latest_version_info() -> Dict[str, str]:
