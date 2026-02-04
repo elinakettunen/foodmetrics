@@ -1,6 +1,5 @@
 import requests
 import pandas as pd
-from collections import defaultdict
 from datetime import datetime, timezone
 from typing import Dict, Tuple, Optional
 
@@ -82,3 +81,11 @@ def get_food_properties(
     )
     
     return df, metadata
+
+def get_food_properties_local():
+    from pathlib import Path
+    return pd.read_csv(
+        Path(__file__).parent.parent.absolute() / 'food_properties.csv',
+        index_col='code',
+        dtype=FOOD_PROP_DTYPES
+    )

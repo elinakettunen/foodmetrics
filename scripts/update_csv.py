@@ -37,9 +37,11 @@ def update_from_google_sheet():
             gsheet_df = pd.read_csv(
                 csv_url,
                 index_col='code'
+            ).drop(
+                columns=['mira2_count','total','disaggregated','information']
             )
             db = read(DB_FILE_NAME)
-            combined = db.combine_first(gsheet_df)
+            combined = db.combine_first(gsheet_df)[db.columns.tolist() + [col for col in gsheet_df.columns if col not in db.columns]] #preserve column order
 
             br, bc = db.shape
             ar, ac = combined.shape
