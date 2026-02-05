@@ -1,4 +1,4 @@
-code,animal_proportion,fao_subgroup_code,has_fish,has_meat_or_poultry,has_seafood,name,cereals,whole_grain,tubers_roots,vegetables,fruits,nuts,legumes,dairy,poultry,fish,eggs,meat,plant_oils_unsaturated,plant_oils_saturated,animal_fats,sugar,none
+code,animal_proportion,fao_subgroup_code,has_fish,has_meat_or_poultry,has_seafood,name,ep_phd_refined_grains,ep_phd_whole_grains,ep_phd_tubers_roots,ep_phd_vegetables,ep_phd_fruits,ep_phd_nuts,ep_phd_legumes,ep_phd_dairy,ep_phd_poultry,ep_phd_fish,ep_phd_eggs,ep_phd_meat,ep_phd_plant_oils_unsaturated,ep_phd_plant_oils_saturated,ep_phd_animal_fats,ep_phd_sugar,ep_phd_none
 B93,1.0,401,False,False,False,Valio Eila laktoositon kevytmaitojuoma,,,,,,,,1.0,,,,,,,,,
 F000001,0.0,1205,False,False,False,Sokeri,,,,,,,,,,,,,,,,1.0,
 F000002,0.0,1205,False,False,False,Hedelmäsokeri,,,,,,,,,,,,,,,,1.0,
