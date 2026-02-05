@@ -28,30 +28,38 @@ def update_from_google_sheet():
     url = input('Paste in the URL of your google sheet. Enter to skip:\n')
 
     if url:
-        try:
-            sheet_id = re.search(r'/d/([a-zA-Z0-9-_]+)', url).group(1)
-            gid = re.search(r'[#&]gid=([0-9]+)', url)
-            gid = gid.group(1) if gid else '0'
+        sheet_id = re.search(r'/d/([a-zA-Z0-9-_]+)', url).group(1)
+        gid = re.search(r'[#&]gid=([0-9]+)', url)
+        gid = gid.group(1) if gid else '0'
 
-            csv_url = f'https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={gid}'
-            gsheet_df = pd.read_csv(
-                csv_url,
-                index_col='code'
-            ).drop(
-                columns=['mira2_count','total','disaggregated','information']
-            )
-            import numpy as np
-            gsheet_df.replace(r'^\s*$', np.nan, regex=True, inplace=True)
-            
-            db = read(DB_FILE_NAME)
-            combined = db.combine_first(gsheet_df)[db.columns.tolist() + [col for col in gsheet_df.columns if col not in db.columns]] #preserve column order
+        csv_url = f'https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={gid}'
+        gsheet_df = pd.read_csv(
+            csv_url,
+            index_col='code'
+        ).drop(
+            columns=['mira2_count','total','disaggregated','information']
+        )
+        import numpy as np
+        gsheet_df.replace(r'^\s*$', np.nan, regex=True, inplace=True)
+        
+        db = read(DB_FILE_NAME)
+        combined = db.copy()
+        combined.update(gsheet_df)
+        combined = combined[db.columns.tolist() + [col for col in gsheet_df.columns if col not in db.columns]] #preserve column order
 
-            br, bc = db.shape
-            ar, ac = combined.shape
-            combined.to_csv(DB_FILE_NAME)
-            print(f'Added {ar - br} rows and {ac - bc} columns.')
-        except Exception as e:
-            print(f'Could read {url} as a csv.',e)
+        filled_mask = db.isna() & combined.notna()
+        overwritten_mask = db.notna() & combined.notna() & (db != combined)
+
+        num_filled = filled_mask.sum().sum()
+        num_overwritten = overwritten_mask.sum().sum()
+
+        br, bc = db.shape
+        ar, ac = combined.shape
+        
+        combined.to_csv(DB_FILE_NAME)
+
+        print(f'Filled in {num_filled} missing and changed {num_overwritten} values.')
+        print(f'Added {ar - br} rows and {ac - bc} columns.')
     else:
         print('Skipped.')
 
