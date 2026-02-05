@@ -23,4 +23,4 @@ df.head()
 ---
 
 **License**  
-`foodmetrics` © 2025-2026 by Elina Kettunen is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+`foodmetrics` © 2025-2026 by Elina Kettunen is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
