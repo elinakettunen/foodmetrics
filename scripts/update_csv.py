@@ -7,9 +7,6 @@ from foodmetrics import FOOD_PROP_DTYPES
 UPDATE_FILE_PATH = '../food_properties_new_codes.csv'
 DB_FILE_NAME = "../food_properties.csv"
 
-def read(file_name):
-    return pd.read_csv(file_name,index_col='code', dtype=FOOD_PROP_DTYPES)
-
 def add_codes_from_local_file():
     new = read(UPDATE_FILE_PATH)
     if new.isna().any().any():
@@ -33,25 +30,35 @@ def update_from_google_sheet():
         gid = gid.group(1) if gid else '0'
 
         csv_url = f'https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={gid}'
+        columns = list(FOOD_PROP_DTYPES.keys() - {'code'})
         gsheet_df = pd.read_csv(
             csv_url,
-            index_col='code'
-        ).drop(
-            columns=['mira2_count','total','disaggregated','information']
+            index_col='code',
+            dtype=FOOD_PROP_DTYPES,
+            na_values=['', ' ', '  ', '\t']
+        )[columns]
+        db = pd.read_csv(
+            DB_FILE_NAME,
+            index_col='code',
+            dtype=FOOD_PROP_DTYPES
         )
-        import numpy as np
-        gsheet_df.replace(r'^\s*$', np.nan, regex=True, inplace=True)
-        
-        db = read(DB_FILE_NAME)
+
         combined = db.copy()
         combined.update(gsheet_df)
-        combined = combined[db.columns.tolist() + [col for col in gsheet_df.columns if col not in db.columns]] #preserve column order
-
-        filled_mask = db.isna() & combined.notna()
-        overwritten_mask = db.notna() & combined.notna() & (db != combined)
+        
+        common_columns = db.columns.intersection(gsheet_df.columns)
+        filled_mask = db[common_columns].isna() & combined[common_columns].notna()
+        overwritten_mask = db[common_columns].notna() & combined[common_columns].notna() & (db[common_columns] != combined[common_columns])
 
         num_filled = filled_mask.sum().sum()
         num_overwritten = overwritten_mask.sum().sum()
+        
+        new_columns = [col for col in gsheet_df.columns if col not in db.columns]
+        for col in new_columns:
+            combined[col] = gsheet_df[col]
+        
+        num_new_col_values = sum(gsheet_df[col].notna().sum() for col in new_columns)
+        num_filled += num_new_col_values
 
         br, bc = db.shape
         ar, ac = combined.shape
