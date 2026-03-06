@@ -100,9 +100,15 @@ def get_food_properties(
     return df, metadata
 
 def get_food_properties_local():
+    meta = {
+        'commit_sha': 'local',
+        'commit_date': 'local',
+        'file_url': 'local',
+        'fetched_at': datetime.now(timezone.utc).isoformat()
+    }
     from pathlib import Path
     return pd.read_csv(
         Path(__file__).parent.parent.absolute() / 'food_properties.csv',
         index_col='code',
         dtype=FOOD_PROP_DTYPES
-    )
+    ), meta
