@@ -256,7 +256,7 @@ F000633,1.0,403,False,False,False,"Kerma, kevyt, kahvikerma, 10 % rasvaa, vähä
 F000635,1.0,404,False,False,False,"Raejuusto, rasvaton, vl",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F000636,0.6,402,False,False,False,"Ykkösviili maustettu hillolla 1 % rasvaa, vähälaktoosinen",,,,,,,,,,,,,,,,,
 F000637,1.0,402,False,False,False,"Jogurtti maustamaton, rasvaton, vähälaktoosinen",,1.0,,,,,,,,,,,,,,,
-F000639,0.65,402,False,False,False,"Marja-/hedelmäjogurtti rasvaton, keskiarvo",,,,,,,,,,,,,,,,,
+F000639,0.35,402,False,False,False,"Marja-/hedelmäjogurtti rasvaton, keskiarvo",,,,,,,,,,,,,,,,,
 F000640,1.0,404,False,False,False,"Juusto, valkohomejuusto, rasvaa 26-30 %, camembert/brie",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F000641,1.0,404,False,False,False,"Juusto, kermajuusto, rasvaa 30 %, turunmaa/oltermanni/korsholm/masurkka",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F000642,1.0,404,False,False,False,"Juusto, emmentaljuusto, rasvaa 27-30 %, punaleima",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -606,11 +606,11 @@ F011690,0.05,1302,False,False,False,Majoneesi vähärasvainen 15 % rasvaa,,,,,,,
 F011691,1.0,604,True,False,False,"Mäti keskiarvo, suolattu",,,,,,,,,,,,,,,,,1.0
 F011695,0.0,1101,False,False,False,"Rypsiöljy, kylmäpuristettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 F011700,0.0,1503,False,False,False,"Soijaproteiini konsentraatti, 58 % proteiinia",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-F011723,0.65,402,False,False,False,"Jogurtti, maustettu, rasvaa 3 %",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F011723,0.60,402,False,False,False,"Jogurtti, maustettu, rasvaa 3 %",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F011724,0.65,402,False,False,False,"Marja-/hedelmäjogurtti sisältää kuitua, rasvaa n. 2 %",,,,,,,,,,,,,,,,,
 F011725,0.6,402,False,False,False,"Viili, maustettu, rasvaa 2 %",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F011726,0.55,402,False,False,False,"Hedelmä-/marjaviili rasvaa 1 %, vähälaktoosinen",,,,,,,,,,,,,,,,,
-F011727,0.65,402,False,False,False,"Marja-/hedelmäjogurtti rasvaa 2,5 %",,,,,,,,,,,,,,,,,
+F011727,0.5,402,False,False,False,"Marja-/hedelmäjogurtti rasvaa 2,5 %",,,,,,,,,,,,,,,,,
 F011733,0.0,103,False,False,False,"Vaalea leipä, vehnäsämpylä, vesi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F011734,0.0,903,False,False,False,Siitakesieni,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F011735,0.0,903,False,False,False,Osterivinokas,,,,,,1.0,,,,,,,,,,,
@@ -673,7 +673,7 @@ F029066,1.0,403,False,False,False,"Kerma, kuohukerma, rasvaa 35 %",0.0,1.0,0.0,0
 F029067,0.1,1202,False,False,False,Suklaa-pähkinälevite,,,,,,,,,,,,,,,,,
 F029070,0.0,1405,False,False,False,Energiajuoma,,,,,,,,,,,,,,,,,
 F029078,1.0,702,False,True,False,Kebabliha,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F029089,0.65,402,False,False,False,"Jogurtti, juotava, marja/hedelmä, rasvaa 0,1 g",,,,,,,,,,,,,,,,,
+F029089,0.5,402,False,False,False,"Jogurtti, juotava, marja/hedelmä, rasvaa 0,1 g",,,,,,,,,,,,,,,,,
 F029091,0.9,401,False,False,False,"Erikoiskahvijuoma, cappuccino, makeuttamaton, rasvaton maito",,,,,,,,,,,,,,,,,
 F029098,0.0,906,False,False,False,"Wok-kasvikset wokattu, paprika, sipuli, maissi, vihreä ja valkoinen pa",,,,,,1.0,,,,,,,,,,,
 F029100,0.0,906,False,False,False,"Wok-kasvikset wokattu, vihreä papu, porkkana, paprika, maissi, palster",,,,,,1.0,,,,,,,,,,,
@@ -813,9 +813,9 @@ F030451,0.0,1402,False,False,False,Kivennäisvesi fruktoosilla makeutettu,,,,,,,
 F030453,1.0,402,False,False,False,"Marja-/hedelmäjogurtti, kuitu, vähälakt., rasvaton, os keinotekoisesti",,1.0,,,,,,,,,,,,,,,
 F030454,1.0,403,False,False,False,"Kermaviili vähälaktoosinen, 6% rasvaa",,1.0,,,,,,,,,,,,,,,
 F030455,1.0,403,False,False,False,"Kermaviili vähälaktoosinen, 3,5% rasvaa",,1.0,,,,,,,,,,,,,,,
-F030456,0.65,402,False,False,False,"Marja-/hedelmäjogurtti rasvaa 2 %, vähälaktoosinen",,,,,,,,,,,,,,,,,
-F030462,0.65,402,False,False,False,"Marja-/hedelmäjogurtti rasvaa 1,5 %, vähälaktoosinen",,,,,,,,,,,,,,,,,
-F030464,0.65,402,False,False,False,"Marja-/hedelmäjogurtti rasvaton, laktoositon",,,,,,,,,,,,,,,,,
+F030456,0.5,402,False,False,False,"Marja-/hedelmäjogurtti rasvaa 2 %, vähälaktoosinen",,,,,,,,,,,,,,,,,
+F030462,0.5,402,False,False,False,"Marja-/hedelmäjogurtti rasvaa 1,5 %, vähälaktoosinen",,,,,,,,,,,,,,,,,
+F030464,0.45,402,False,False,False,"Marja-/hedelmäjogurtti rasvaton, laktoositon",,,,,,,,,,,,,,,,,
 F030570,0.0,102,False,False,False,Maltodekstriini,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F030572,1.0,702,False,True,False,"Grillimakkara, tuotekeskiarvo",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F030573,1.0,702,False,True,False,"Grillimakkara, lihaisa, keskiarvo",,,,,,,,,1.0,,,,,,,,
@@ -880,7 +880,7 @@ F031494,0.0,1406,False,False,False,"Kiisseli, mehukeitto, keinotekoisesti makeut
 F031495,0.0,1101,False,False,False,Pellavaöljy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 F031498,1.0,401,False,False,False,"Maitojauhe, rasvaton, laktoositon",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031504,0.45,1103,False,False,False,Rasvaseoslevite 70%,,,,,,,,,,,,,,,,,
-F031511,0.65,402,False,False,False,"Jogurtti, maustettu, rasvaa noin 4 %, laktoositon",,,,,,,,,,,,,,,,,
+F031511,0.55,402,False,False,False,"Jogurtti, maustettu, rasvaa noin 4 %, laktoositon",,,,,,,,,,,,,,,,,
 F031522,0.0,103,False,False,False,"Paahtoleipä, runsaskuituinen, vähäsuolainen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031525,0.0,302,False,False,False,"Soijavälipala, alpro, hapatettu, maustamaton, rasvaa 2,3 %, kalsium, vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F031530,1.0,1103,False,False,False,"Voi, laktoositon",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1014,8 +1014,8 @@ F032077,0.0,106,False,False,False,"Muro, weetabix minis, suklaamuroke",0.0,0.0,0
 F032079,0.15,1801,False,True,False,"Ateriasalaatti, italiansalaatti, atria, majoneesikastike",,,,,,,,,,,,,,,,,
 F032080,1.0,402,False,False,False,"Jogurtti, maustettu, vitalinea, rasvaton, d-vit 0,75 ug",,1.0,,,,,,,,,,,,,,,
 F032081,0.0,106,False,False,False,"Muro, tattarihiutale, top food sun flakes",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-F032084,0.65,402,False,False,False,"Jogurtti, maustettu, rasvaa 2 %, laktoositon, d-vit 0,5 ug",,,,,,,,,,,,,,,,,
-F032085,0.65,402,False,False,False,"Jogurtti, maustettu, a+, rasvaa 2 %, vl, d-vit 1 ug",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032084,0.5,402,False,False,False,"Jogurtti, maustettu, rasvaa 2 %, laktoositon, d-vit 0,5 ug",,,,,,,,,,,,,,,,,
+F032085,0.5,402,False,False,False,"Jogurtti, maustettu, a+, rasvaa 2 %, vl, d-vit 1 ug",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032086,1.0,702,False,True,False,"Kebakko, jauhelihavarras, saarioinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032088,1.0,402,False,False,False,"Jogurtti, maustamaton, bulgarian, rasvaa 3,5 %, d-vit 1 ug",,1.0,,,,,,,,,,,,,,,
 F032092,0.5,702,False,True,False,"Jauhelihapihvi, hk",,,,,,,,,,,,,,,,,
@@ -1273,7 +1273,7 @@ F033138,0.0,302,False,False,False,"Soijajuoma, alpro suklaa, kalsiumia ja vitami
 F033141,1.0,402,False,False,False,"Jogurtti, kerrosjogurtti, valio, rasvaa 2 %, vl, d-vitamiinia 0,9 ug",,1.0,,,,,,,,,,,,,,,
 F033145,0.0,103,False,False,False,"Muro, vehnähiutale, kellogg's all-bran regular, vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033147,0.65,402,False,False,False,"Rahka, marja-hedelmä, danonino, rasvaa 2,9 %, d-vitamiinia 1,25 ug",,,,,,,,,,,,,,,,,
-F033150,0.7,402,False,False,False,"Jogurtti, lohkeava, maustettu, rasvaa 4,6 %, laktoositon",,,,,,,,,,,,,,,,,
+F033150,0.6,402,False,False,False,"Jogurtti, lohkeava, maustettu, rasvaa 4,6 %, laktoositon",,,,,,,,,,,,,,,,,
 F033151,0.0,1301,False,False,False,"Merisuola, jodioimaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F033154,1.0,601,True,False,False,"Kala, tuoresuolattu",,,,,,,,,,,,,,,,,1.0
 F033162,1.0,402,False,False,False,"Jogurtti, maustamaton, rasvaa 2,5 %",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1300,7 +1300,7 @@ F033266,0.1,1203,False,False,False,"Pähkinä, cashewpähkinä, jogurttikuorrutu
 F033271,0.5,1801,False,True,False,"Pasta carbonara, hk via, valmisateria",,,,,,,,,,,,,,,,,
 F033278,0.3,1802,True,False,False,"Kalakeitto, täyteläinen lohikeitto, kokkikartano snellman, valmisateria",,,,,,,,,,,,,,,,,
 F033279,0.58,905,False,False,False,"Tomaattikeitto, tomaatti-vuohenjuustokeitto, kokkikartano snellman, valmisateria",,,,,,,,,,,,,,,,,
-F033280,0.7,402,False,False,False,"Jogurtti, maustettu, rasvaa 2 %, laktoositon, d-vit 1 ug",,,,,,,,,,,,,,,,,
+F033280,0.6,402,False,False,False,"Jogurtti, maustettu, rasvaa 2 %, laktoositon, d-vit 1 ug",,,,,,,,,,,,,,,,,
 F033284,1.0,402,False,False,False,"Jogurtti, maustamaton, rasvaton, laktoositon, d-vit 1 ug",,1.0,,,,,,,,,,,,,,,
 F033295,1.0,402,False,False,False,"Jogurtti, maustamaton, a+, rasvaton, vl, d-vit 1 ug",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033313,0.4,1801,False,True,False,"Panang currybroileri jasmiiniriisillä, kitchen joy thai-cube, valmisateria",,,,,,,,,,,,,,,,,
@@ -1410,7 +1410,7 @@ F033689,1.0,402,False,False,False,"Jogurtti, juotava, gefilus kidius, 1,7%, vl, 
 F033692,1.0,402,False,False,False,"Jogurtti, maustettu, juotava, vitalinea protein, rasvaton",,1.0,,,,,,,,,,,,,,,
 F033693,1.0,402,False,False,False,"Rahka, maustamaton, vitalinea jogurttirahka, rasvaton, d-vit 1,25 ug",,1.0,,,,,,,,,,,,,,,
 F033694,0.0,103,False,False,False,"Paahtoleipä, paahto viisi viljaa, fazer",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-F033695,0.6,402,False,False,False,"Jogurtti, maustettu, ab, rasvaa 2,7 %, vl, probiootteja",,,,,,,,,,,,,,,,,
+F033695,0.55,402,False,False,False,"Jogurtti, maustettu, ab, rasvaa 2,7 %, vl, probiootteja",,,,,,,,,,,,,,,,,
 F033697,1.0,402,False,False,False,"Jogurtti, maustamaton, ab, rasvaa 2,5 %, probiootteja",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033698,1.0,402,False,False,False,"Jogurtti, maustamaton, ab, rasvaton, probiootteja",,1.0,,,,,,,,,,,,,,,
 F033699,0.0,103,False,False,False,"Sekaleipä, ruisvehnäsämpylä, fazer",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1426,7 +1426,7 @@ F033756,0.0,111,False,False,False,"Sekaleipä, kauraleipä, 100 % kaura, vaasan"
 F033757,0.0,1407,False,False,False,"Täysmehu, appelsiinitäysmehu, c-vitamiinia 60 mg",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 F033758,1.0,702,False,True,False,"Kokolihaleikkele, kinkkuleikkele, vähärasvainen, rasvaa 2 %",,,,,,,,,1.0,,,,,,,,
 F033759,0.3,1406,False,False,False,"Hedelmäjuoma, maito-mehujuoma, rasvaton, gefilus, vitaminoitu, probiootteja",,,,,,,,,,,,,,,,,
-F033760,1.0,402,False,False,False,"Jogurtti, maustettu, a+ vilja, rasvaa 2 %, vl, d-vit 1 ug",,1.0,,,,,,,,,,,,,,,
+F033760,0.5,402,False,False,False,"Jogurtti, maustettu, a+ vilja, rasvaa 2 %, vl, d-vit 1 ug",,1.0,,,,,,,,,,,,,,,
 F033766,0.0,1402,False,False,False,"Vesi, keitetty",,,,,,,,,,,,1.0,,,,,
 F033783,0.0,111,False,False,False,"Sekaleipä, kauratyynyt, halkaistu, vaasan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033790,1.0,401,False,False,False,"Maito, kevytmaito, laktoositon maitojuoma, valio eila, d-vitamiinia 2 ug",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1493,7 +1493,7 @@ F034591,1.0,402,False,False,False,"Rahka, maustamaton, kermarahka, rasvaa 10 %",
 F034592,1.0,402,False,False,False,"Rahka, maitorahka, maustamaton, rasvaa 2,3 %, vl",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034597,1.0,402,False,False,False,"Rahka, maustettu, profeel proteiinirahka, keinotek. makeutettu, laktoositon",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034619,0.6,402,False,False,False,"Jogurtti, maustettu, valio kreikkalainen, rasvaa 4,7 %, laktoositon",0.0,0.71,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.0
-F034625,0.6,402,False,False,False,"Jogurtti, maustettu, rasvaa 2 %, -30% sokeria, luomu, laktoositon",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F034625,0.55,402,False,False,False,"Jogurtti, maustettu, rasvaa 2 %, -30% sokeria, luomu, laktoositon",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034634,1.0,402,False,False,False,"Jogurtti, maustamaton, a+ kreikkalainen, rasvaa 2 %, laktoositon, d-vit 0,8 ug",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034636,1.0,402,False,False,False,"Jogurtti, maustamaton, rasvaa 2,5 %, luomu, laktoositon",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034640,0.6,402,False,False,False,"Jogurtti, maustettu, rasvaa 2 %, arla luonto+, d-vit 1 ug, ab, laktoositon",0.0,0.79,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.21,0.0,0.0
