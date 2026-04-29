@@ -1004,7 +1004,7 @@ F032015,0.0,111,False,False,False,"Kaurapuuro, elovena, hedelmä-marja",,,,,,,,,
 F032023,0.25,1801,False,True,False,"Ateria-ainekset, pasta carbonara, kypsennetty",,,,,,,,,,,,,,,,,
 F032028,0.41,1801,False,True,False,"Lasagne, ateria-ainekset, sianliha",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032063,0.05,906,False,False,False,"Salaatti, punajuurisalaatti, saarioinen, majoneesia",,,,,,,,,,,,,,,,,
-F032066,0.05,906,False,False,False,"Salaatti, punajuurisalaatti, majoneesikastike, atria",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032066,0.05,906,False,False,False,"Salaatti, punajuurisalaatti, majoneesikastike, atria",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032069,0.05,906,False,False,False,"Salaatti, punajuurisalaatti, kevyt, atria, majoneesikastike",,,,,,,,,,,,,,,,,
 F032071,0.0,106,False,False,False,"Mysli, kilomysli, pirkka",,,,,,,,,,,1.0,,,,,,
 F032072,0.0,906,False,False,False,"Salaatti, aurinkosalaatti, hk",,,,,,1.0,,,,,,,,,,,
