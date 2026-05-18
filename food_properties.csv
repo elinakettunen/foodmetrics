@@ -1866,7 +1866,7 @@ MT3034,0.0,105,False,False,False,"Oatly iKaffe kaurajuoma, päivitetty 9/2022",0
 MT3035,0.0,,False,False,False,"Valmisateria, Felix Veggie Coconut bean curry",,,,,,,,,,,,,,,,,
 MT3036,0.0,1601,False,False,False,Vegemite-levite,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 MT3037,0.0,103,False,False,False,Felix Veggie Coconut bean curry,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT3038,0.0,105,False,False,False,"Kaurajuoma, Oatly Deluxe 2,8% rasvaa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.34,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.66,0.0
+MT3038,0.0,105,False,False,False,"Kaurajuoma, Oatly Deluxe 2,8% rasvaa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.34,0.0,0.0,0.66,0.0
 MT3039,0.0,103,False,False,False,"Kasvisleikkele, Good&Green, savustettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3040,1.0,1103,False,False,False,"Voi, luomu (ei sisällä D-vitamiinia)",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3041,0.0,103,False,False,False,"Muro, vehnähiutale, kellogg's all-bran regular, vitaminoimaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1933,7 +1933,7 @@ MT3105,0.0,1101,False,False,False,"Rasvalevite, vegaaninen, Vemondo (sis. kookos
 MT3106,1.0,702,False,True,False,"Nakki, rasvaa 23 %, Sörkän nakki",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3107,0.0,1002,False,False,False,Mulperimarja,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3108,0.0,103,False,False,False,"Muro, rasvaa 7%, ei lisättyä sokeria",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT3109,0.0,105,False,False,False,"Kaurajuoma, Pirkka UHT, rasvaa 0,9%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.93,0.0
+MT3109,0.0,105,False,False,False,"Kaurajuoma, Pirkka UHT, rasvaa 0,9%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.93,0.0
 MT3110,0.0,1601,False,False,False,"Tartex luomu kasvistahna, yrtti",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 MT3111,0.0,103,False,False,False,"Leikkele, seitan, Wheaty Vegan savustettu ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3112,0.0,105,False,False,False,"Fazer Yosa kauralevite, maustamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1964,7 +1964,7 @@ MT4011,0.0,105,False,False,False,"Välipalakeksi, Elovena, hedelmä täysjyväke
 MT4012,0.0,302,False,False,False,"Soijavälipala, Alpro soijajogurtti, mustikka, rasvaa 2,2%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT4013,0.0,302,False,False,False,"Vanukas, Alpro soijapohjainen vanukas, suklaa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT4014,0.0,105,False,False,False,"Kauravalmiste, Elovena kauravälipala, mansikka",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT4015,0.0,105,False,False,False,"Kaurajuoma, Alpro No Sugars, sokeroimaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.84,0.0
+MT4015,0.0,105,False,False,False,"Kaurajuoma, Alpro No Sugars, sokeroimaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.0,0.84,0.0
 MT4016,0.0,1501,False,False,False,"Valio Onni vadelma-mustikkapuuro, maidoton, vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT4017,0.0,1501,False,False,False,"Semper hedelmä-kaurapuuro, maidoton, vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT4018,0.0,1501,False,False,False,"Valio Onni banaani-mustaherukkapuuro, maidoton, vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
