@@ -10,7 +10,7 @@ F000007,0.2,1202,False,False,False,"Suklaakonvehti, marmeladitäyte",0.0,0.0,0.0
 F000008,0.0,1204,False,False,False,Lakritsi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 F000009,0.0,1204,False,False,False,"Makeinen, marmeladimakeinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 F000010,0.0,1204,False,False,False,"Marsipaani, mantelimassa",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F000011,0.52,1204,False,False,False,"Makeinen, toffee",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+F000011,0.52,1204,False,False,False,"Makeinen, toffee",0.0,0.0,0.0,0.0,0.0,0.0,0.52,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.48,0.0,0.0
 F000012,0.0,1204,False,False,False,"Makeinen, salmiakkipastilli",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 F000014,0.2,1202,False,False,False,"Suklaapatukka suklainen, keskiarvo",,,,,,,,,,,,,,,,,
 F000020,0.0,1403,False,False,False,"Kaakaojauhe, ei lisättyä sokeria",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -232,7 +232,7 @@ F000578,0.05,1302,False,False,False,"Majoneesi, rasvaa 27-33 %",0.0,0.0,0.0,0.0,
 F000579,0.0,1302,False,False,False,"Salaatinkastike rasvaa <17%, vähärasvainen",,,,,,,,,,,,,,,,,
 F000593,0.0,1101,False,False,False,Leivontamargariini 80%,,,,,,,,,,,,,1.0,,,,
 F000594,0.0,1101,False,False,False,"Kasvirasvalevite kevyt becel 35 % vähäsuolainen, laktoositon",,,,,,,,,,,,,1.0,,,,
-F000597,0.63,1103,False,False,False,"Rasvaseoslevite 75 %, tuotekeskiarvo",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+F000597,0.63,1103,False,False,False,"Rasvaseoslevite 75 %, tuotekeskiarvo",0.0,0.0,0.0,0.0,0.0,0.0,0.63,0.00,0.0,0.0,0.0,0.0,0.37,0.0,0.0,0.0,0.0
 F000599,0.0,1101,False,False,False,"Kasvirasvalevite 32%, benecol kevyt",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 F000602,1.0,401,False,False,False,Ternimaito,,1.0,,,,,,,,,,,,,,,
 F000606,1.0,401,False,False,False,"Maito, rasvaton, d-vitamiinia 1 ug",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -275,8 +275,8 @@ F000657,1.0,404,False,False,False,"Juusto, leipäjuusto, rasvaa 17-23 %",0.0,1.0
 F000658,1.0,404,False,False,False,"Tuorejuusto rasvaa 36-44g, runsasrasvainen, kasakka/musta-pekka",,1.0,,,,,,,,,,,,,,,
 F000659,1.0,404,False,False,False,"Sulatejuusto rasvaa 9-12g, vähärasvainen",,1.0,,,,,,,,,,,,,,,
 F000661,0.5,1204,False,False,False,"Pehmytjäätelö, soft ice",,,,,,,,,,,,,,,,,
-F000663,0.5,1204,False,False,False,"Jäätelö, kermajäätelö",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F000664,0.5,1202,False,False,False,"Jäätelö, kermajäätelöpuikko, suklaakuorrute, keskiarvo",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F000663,0.5,1204,False,False,False,"Jäätelö, kermajäätelö",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+F000664,0.5,1202,False,False,False,"Jäätelö, kermajäätelöpuikko, suklaakuorrute, keskiarvo",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0
 F000665,0.5,1204,False,False,False,"Jäätelö, kermajäätelötuutti",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F000666,0.5,1204,False,False,False,Maitojäätelö,,,,,,,,,,,,,,,,,
 F000668,0.5,1204,False,False,False,"Kermajäätelö >12% rasvaa, keskiarvo",,,,,,,,,,,,,,,,,
@@ -346,7 +346,7 @@ F000818,1.0,602,True,False,False,"Lohi, tuoresuolattu",0.0,0.0,0.0,0.0,0.0,0.0,0
 F000820,1.0,603,True,False,False,Kampela,,,,,,,,,,,,,,,,,1.0
 F000824,1.0,601,True,False,False,"Kala, keskiarvo, silakka/muikku/ahven/hauki",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 F000826,1.0,603,True,False,False,"Seiti, pakaste",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-F000828,0.57,603,True,False,False,"Tonnikala, öljyssä, säilyke",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+F000828,0.57,603,True,False,False,"Tonnikala, öljyssä, säilyke",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.43,0.0,0.0,0.0,0.57
 F000829,1.0,603,True,False,False,Anjovis,,,,,,,,,,,,,,,,,1.0
 F000831,0.7,603,True,False,False,"Sardiini keskiarvo, öljyssä ja tomaattikastikkeessa",,,,,,,,,,,,,,,,,1.0
 F000833,1.0,604,True,False,False,Mätitahna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
@@ -656,7 +656,7 @@ F028969,0.0,103,False,False,False,"Nuudeli, keitetty, suolaton",0.0,0.0,0.0,0.0,
 F028986,1.0,605,False,False,True,"Rapu, keitetty",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 F028990,1.0,702,False,True,False,Valkosipulietana,,,,,,,,,1.0,,,,,,,,
 F028991,0.9,1403,False,False,False,"Erikoiskahvijuoma, cafe au lait, makeuttamaton, täysmaitoa",,,,,,,,,,,,,,,,,
-F028993,0.0,1403,False,False,False,"Kahvi, caffe latte, makeuttamaton, täysmaito",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F028993,1.0,1403,False,False,False,"Kahvi, caffe latte, makeuttamaton, täysmaito",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F029008,0.0,1302,False,False,False,Kasvisliemikuutio,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F029009,0.25,703,False,True,False,"Kanaliemikuutio, sisältää vehnää",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F029014,0.0,303,False,False,False,"Kookosmaito, kookosjuoma",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -866,7 +866,7 @@ F031233,0.0,301,False,False,False,"Papu, härkäpapu, keitetty",0.0,0.0,0.0,0.0,
 F031249,0.0,302,False,False,False,Tempeh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F031252,0.0,101,False,False,False,"Riisikakku, riisikeksi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031253,0.0,101,False,False,False,Riisi-maissikakku,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-F031256,0.45,103,False,False,False,"Pasta, tuorepasta, kananmunaa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F031256,0.45,103,False,False,False,"Pasta, tuorepasta, kananmunaa",0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0,0.0,0.55,0.0,0.0,0.0,0.0,0.0,0.0
 F031258,1.0,403,False,False,False,"Kermavaahto sokeroimaton, kotitekoinen",,1.0,,,,,,,,,,,,,,,
 F031444,0.75,1802,True,False,False,"Kirjolohikeitto , teollinen",,,,,,,,,,,,,,,,,1.0
 F031447,1.0,1801,False,True,False,Broilerisuikalekastike ruoanvalmistuskerma,,,,,,,,,,,,,,,,,
@@ -896,13 +896,13 @@ F031555,0.0,1002,False,False,False,"Granaattiomena, kuorittu",0.0,0.0,0.0,1.0,0.
 F031557,0.0,903,False,False,False,"Chili, vihreä, tuore",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031562,0.25,1201,False,False,False,Täytekakun pohja,,,,,,,,,,,,,,,,,
 F031566,0.27,1201,False,False,False,Kääretortun pohja,,,,,,,,,,,,,,,,,
-F031567,0.44,1201,False,False,False,Unelmatortun pohja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F031567,0.44,1201,False,False,False,Unelmatortun pohja,0.0,0.0,0.0,0.0,0.0,0.0,0.44,0.0,0.0,0.0,0.56,0.0,0.0,0.0,0.0,0.0,0.0
 F031575,0.5,1201,False,False,False,"Kakku, mutakakku, kostea suklaakakku, frödinge, pakaste",,,,,,,,,,,,,,,,,
-F031576,0.32,1201,False,False,False,"Voikreemitäyte, unelmatortun täyte",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F031576,0.32,1201,False,False,False,"Voikreemitäyte, unelmatortun täyte",0.0,0.0,0.0,0.0,0.0,0.0,0.32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.68,0.0,0.0
 F031598,0.46,1201,False,False,False,"Kreemi, kakun kuorrute",,,,,,,,,,,,,,,,,
 F031607,0.3,1201,False,False,False,"Täytekakku, kinuski-kreemikakku, leipomo",,,,,,,,,,,,,,,,,
-F031608,0.5,1103,False,False,False,Kakkurasva,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
-F031609,0.5,1201,False,False,False,"Kakku, porkkanakakku, leipomo",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F031608,0.5,1103,False,False,False,Kakkurasva,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+F031609,0.5,1201,False,False,False,"Kakku, porkkanakakku, leipomo",0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
 F031613,0.0,1201,False,False,False,"Keksi, lastenkeksi, carneval, fazer, perinteinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031615,0.0,1201,False,False,False,"Keksi, kaurakeksi, jyväshyvä luonnonhyvät, rypsiöljy",,,,,,,,,,,,,,,,,
 F031619,0.0,1201,False,False,False,"Keksi, digestive välipalakeksi, teollinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -911,7 +911,7 @@ F031621,0.0,1201,False,False,False,"Keksi, kaurakeksi, teollinen, keskiarvo",,,,
 F031622,0.0,1201,False,False,False,"Keksi, lastenkeksi, muumi kuviokeksi, lu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031623,0.0,106,False,False,False,"Keksi, välipalakeksi, elovena",,,,,,,,,,,1.0,,,,,,
 F031627,0.05,103,False,False,False,"Keksi, digestive välipalakeksi, gluteeniton, vehnätärkkelystä",,,,,,,,,,,,,,,,,
-F031643,0.05,1201,False,False,False,"Keksi, piparkakku, teollinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F031643,0.05,1201,False,False,False,"Keksi, piparkakku, teollinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.8,0.0,0.0,0.0,0.15,0.0,0.0
 F031644,0.4,1201,False,False,False,"Keksi, piparkakku, kotitekoinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031646,0.05,1201,False,False,False,"Keksi, leivoskeksi, jaffa appelsiini, lu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031648,0.05,1201,False,False,False,"Keksi, murokeksi, kotitekoinen, kananmunaton",,,,,,,,,,,,,,,,,
@@ -928,7 +928,7 @@ F031788,0.5,101,False,False,False,"Karjalanpiirakka, riisipiirakka, moilas",,,,,
 F031789,0.5,1201,False,False,False,"Kakku, mantelitorttu, almondy, pakaste",,,,,,,,,,,,,,,,,
 F031790,0.5,1201,False,False,False,"Kakku, daim-kakku, almondy, pakaste",,,,,,,,,,,,,,,,,
 F031793,0.5,1201,False,False,False,"Täytekakku, mansikkakakku, frödinge, pakaste",,,,,,,,,,,,,,,,,
-F031795,0.5,1201,False,False,False,"Täytekakku, suklaakakku, frödinge, pakaste",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+F031795,0.05,1201,False,False,False,"Täytekakku, suklaakakku, frödinge, pakaste",0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.95,0.0,0.0
 F031811,0.0,110,False,False,False,"Ruisleipä, reissumies, oululainen, fazer",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 F031812,0.0,110,False,False,False,"Ruisleipä, oululainen reilu ruisleipä, fazer",,,,,,,,,,,1.0,,,,,,
 F031814,0.0,110,False,False,False,"Ruisleipä, real tumma täysjyväleipä, fazer",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
@@ -986,7 +986,7 @@ F031940,0.6,1204,False,False,False,"Vanukas, kaakaovanukas, jacky",,,,,,,,,,,,,,
 F031943,1.0,702,False,True,False,"Lihapulla, lihapyörykkä hk/pirkka",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031956,1.0,402,False,False,False,"Rahka, marja-hedelmä, rasvaton, keinotekoisesti makeutettu",,1.0,,,,,,,,,,,,,,,
 F031959,1.0,403,False,False,False,"Ruoanvalmistuskerma, maustettu, kolmen juuston, rasvaa 10 % , vl",,1.0,,,,,,,,,,,,,,,
-F031966,0.6,1302,False,False,False,"Kerma, kuohukerma, kasvirasvakerma, flora kuohu, rasvaa 26 %",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F031966,0.6,1302,False,False,False,"Kerma, kuohukerma, kasvirasvakerma, flora kuohu, rasvaa 26 %",0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.40,0.0,0.0,0.0,0.0
 F031968,0.5,1204,False,False,False,"Jäätelö, kermajäätelö, laktoositon",,,,,,,,,,,,,,,,,
 F031970,0.5,1204,False,False,False,"Jäätelö, kermajäätelöä ja keksiä, puffet",,,,,,,,,,,,,,,,,
 F031971,0.5,1204,False,False,False,"Jäätelö, kevyt, rasvaa 4,5 %",,,,,,,,,,,,,,,,,
@@ -1115,7 +1115,7 @@ F032483,0.0,1302,False,False,False,"Salaatinkastike, kreikkalainen-, felix, ryps
 F032485,0.0,1302,False,False,False,"Salaatinkastike, hunaja-sinappi, felix, rypsiöljypohjainen, rasvaa 36 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 F032490,0.15,1201,False,False,False,"Pulla, korvapuusti, gifflar kanelikorvapuusti, pågen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032493,0.05,1201,False,False,False,"Kakku, muffini, cremetäyte muffinsi kaakao, pågen",,,,,,,,,,,,,,,,,
-F032502,0.5,1202,False,False,False,"Makeinen, dumle, fazer, maitosuklaalla kuorrutettu toffee",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032502,0.5,1202,False,False,False,"Makeinen, dumle, fazer, maitosuklaalla kuorrutettu toffee",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0
 F032503,0.15,1202,False,False,False,"Makeinen, maitosuklaarae, m&m's/amerikan pastilli",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 F032509,0.2,1204,False,False,False,"Suklaa, suklaapatukka, twix, keksiä ja toffeeta",,,,,,,,,,,,,,,,,
 F032511,0.2,1201,False,False,False,"Pulla, dallaspulla, fazer",,,,,,,,,,,,,,,,,
@@ -1124,8 +1124,8 @@ F032526,0.0,1406,False,False,False,"Kiisseli, mansikkakeitto",,,,,,,,,,,,,,,,,
 F032530,0.05,1201,False,False,False,"Keksi, hetkiset, kaura-suklaa, jyväshyvä lu",,,,,,,,,,,,,,,,,
 F032533,0.0,1201,False,False,False,"Keksi, paussi kaakao, jyväshyvä, lu",,,,,,,,,,,,,,,,,
 F032534,0.0,111,False,False,False,"Hapankorppu, kaurakorppu, oululainen, fazer",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-F032535,0.5,101,False,False,False,"Karjalanpiirakka, rukiinen imatran riisipiirakka, fazer",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-F032536,0.5,101,False,False,False,"Karjalanpiirakka, rukiinen riisipiirakka, fazer",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032535,0.5,101,False,False,False,"Karjalanpiirakka, rukiinen imatran riisipiirakka, fazer",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+F032536,0.5,101,False,False,False,"Karjalanpiirakka, rukiinen riisipiirakka, fazer",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
 F032540,0.0,1405,False,False,False,"Glögijuoma, alkoholiton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 F032541,0.7,402,False,False,False,"Rahka, maitorahka, maustettu, rasvaa 7 %, valio",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032542,0.05,1201,False,False,False,"Keksi, suklaapisara, jyväshyvä, lu",,,,,,,,,,,,,,,,,
@@ -1139,15 +1139,15 @@ F032638,0.5,1502,False,False,False,"Ateriankorvike, pirtelö, juomajauhe, allevo
 F032650,0.0,1502,False,False,False,"Ateriankorvike, hunger control, valmisjuoma, nutrilett",,,,,,,,,,,,1.0,,,,,
 F032655,0.5,1502,False,False,False,"Ateriankorvike, hunger control, patukka, nutrilett",,,,,,,,,,,,,,,,,
 F032659,0.5,1502,False,False,False,"Ateriankorvike, pirtelö, juomajauhe, tuotekeskiarvo",,,,,,,,,,,,,,,,,
-F032664,0.63,1103,False,False,False,"Rasvaseoslevite 75 %, oivariini, normaalisuolainen, vl",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F032665,0.63,1103,False,False,False,"Rasvaseoslevite 75%, oivariini, vähemmän suolaa, vl",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032664,0.63,1103,False,False,False,"Rasvaseoslevite 75 %, oivariini, normaalisuolainen, vl",0.0,0.0,0.0,0.0,0.0,0.0,0.63,0.0,0.0,0.0,0.0,0.0,0.37,0.0,0.0,0.0,0.0
+F032665,0.63,1103,False,False,False,"Rasvaseoslevite 75%, oivariini, vähemmän suolaa, vl",0.0,0.0,0.0,0.0,0.0,0.0,0.63,0.0,0.0,0.0,0.0,0.0,0.37,0.0,0.0,0.0,0.0
 F032668,0.63,1103,False,False,False,"Rasvaseoslevite 75%, oivariini, pehmeästi levittyvä, vl",,,,,,,,,,,,,,,,,
-F032669,0.63,1103,False,False,False,"Rasvaseos 60 %, oivariini, vähärasvaisempi, vl",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F032670,0.63,1103,False,False,False,"Rasvaseoslevite 75 %, oivariini, laktoositon",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032669,0.63,1103,False,False,False,"Rasvaseos 60 %, oivariini, vähärasvaisempi, vl",0.0,0.0,0.0,0.0,0.0,0.0,0.63,0.0,0.0,0.0,0.0,0.0,0.37,0.0,0.0,0.0,0.0
+F032670,0.63,1103,False,False,False,"Rasvaseoslevite 75 %, oivariini, laktoositon",0.0,0.0,0.0,0.0,0.0,0.0,0.63,0.0,0.0,0.0,0.0,0.0,0.37,0.0,0.0,0.0,0.0
 F032671,0.58,1103,False,False,False,"Rasvaseoslevite 43%, ingmariini, vl",,,,,,,,,,,,,,,,,
 F032672,0.7,1103,False,False,False,"Rasvaseoslevite 82%, ingmariini merisuola, vl",,,,,,,,,,,,,,,,,
 F032673,0.65,1103,False,False,False,"Rasvaseoslevite 75%, ingmariini, normaalisuolainen, vl",,,,,,,,,,,,,,,,,
-F032676,0.58,1103,False,False,False,"Rasvaseoslevite 57 %, ingmariini, vähärasvaisempi, vl",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032676,0.58,1103,False,False,False,"Rasvaseoslevite 57 %, ingmariini, vähärasvaisempi, vl",0.0,0.0,0.0,0.0,0.0,0.0,0.58,0.0,0.0,0.0,0.0,0.0,0.42,0.0,0.0,0.0,0.0
 F032685,0.05,201,False,False,False,"Salaatti, perunasalaatti, atria, majoneesikastike",,,,,,,,,,,,,,,,,
 F032688,0.0,201,False,False,False,"Salaatti, perunasalaatti, oliivi-rypsiöljy, ei majoneesia",,,,,,,,,,,,,,,,,
 F032695,0.1,1203,False,False,False,"Makeinen, marianne, fazer, piparminttusuklaakaramelli",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
@@ -1173,7 +1173,7 @@ F032734,0.0,302,False,False,False,"Soijajuoma, alpro kalsiumsoijajuoma, sokeri, 
 F032735,1.0,402,False,False,False,"Jogurtti, maustamaton, a+, rasvaa 2,5 %, vl, d-vit 1 ug",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032739,0.0,1405,False,False,False,"Siiderijuoma, pear, alkoholiton siideri, 0,02 til% alkoholia, rainbow",,,,,,,,,,,,1.0,,,,,
 F032740,0.0,1401,False,False,False,"Olut, alkoholiton olut, nikolai, 0,0 til% alkoholia, sinebrychoff",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-F032741,0.4,1201,False,False,False,"Piparkakkutaikina, kotitekoinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032741,0.4,1201,False,False,False,"Piparkakkutaikina, kotitekoinen",0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.15,0.0,0.0
 F032742,0.0,103,False,False,False,"Sekaleipä, jyväisät perheviipaleet, oululainen",,,,,,,,,,,1.0,,,,,,
 F032744,0.0,1203,False,False,False,"Luumumarmeladi, luumuhillo",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032746,0.0,1406,False,False,False,"Energiajuoma, vitaminoitu, keinotekoisesti makeutettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
@@ -1256,11 +1256,11 @@ F033095,0.0,303,False,False,False,"Pähkinä, pekaanipähkinä",0.0,0.0,1.0,0.0,
 F033097,1.0,702,False,True,False,"Grillimakkara, bratwursti",,,,,,,,,1.0,,,,,,,,
 F033100,0.0,103,False,False,False,"Vaalea leipä, vaalea lounassämpylä, vaasan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033102,0.05,303,False,False,False,"Pähkinä, hunajapaahdettu maapähkinä",,,,,,,,,,,,,,,,,
-F033103,0.6,402,False,False,False,"Jogurtti, maustettu, valio olo, rasvaa 2,7 %, eila, d-vit 1 ug, probiootteja",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F033103,0.7,402,False,False,False,"Jogurtti, maustettu, valio olo, rasvaa 2,7 %, eila, d-vit 1 ug, probiootteja",0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0
 F033106,0.7,402,False,False,False,"Jogurtti, intialainen jogurttijuoma, mangolassi",,,,,,,,,,,,,,,,,
 F033113,0.0,1406,False,False,False,"Mehu, mehujuoma, mehukatti pillijuoma, täydennetty",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 F033119,1.0,404,False,False,False,"Juusto, salaattijuusto, rasvaa 9-11 %, lehmänmaito, suolaliemessä",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F033120,0.55,404,False,False,False,"Juusto, salaattijuusto, rasvaa 22 %, lehmänmaito, öljyssä",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F033120,0.55,404,False,False,False,"Juusto, salaattijuusto, rasvaa 22 %, lehmänmaito, öljyssä",0.0,0.55,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0
 F033122,0.0,302,False,False,False,"Soijajuoma, alpro maustamaton, kalsiumia ja vitamiineja",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F033124,0.0,302,False,False,False,"Soijajuoma, rainbow, kalsiumia ja vitamiineja",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F033125,0.0,302,False,False,False,"Soijajuoma, pirkka luomu maustamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
@@ -1416,7 +1416,7 @@ F033698,1.0,402,False,False,False,"Jogurtti, maustamaton, ab, rasvaton, probioot
 F033699,0.0,103,False,False,False,"Sekaleipä, ruisvehnäsämpylä, fazer",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033703,1.0,402,False,False,False,"Jogurtti, juotava, pirkka l. casei jogurttijuoma, rasvaa 0,9%, probiootteja",,1.0,,,,,,,,,,,,,,,
 F033710,1.0,401,False,False,False,"Välipalajuoma, tehojuoma, gefilus, rasvaton, laktoosit., d-vit, prob., alk.05/12",,1.0,,,,,,,,,,,,,,,
-F033711,0.5,101,False,False,False,"Karjalanpiirakka, vuoksen riisipiirakka, fazer",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F033711,0.5,101,False,False,False,"Karjalanpiirakka, vuoksen riisipiirakka, fazer",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
 F033713,1.0,401,False,False,False,"Välipalajuoma, tehojuoma, gefilus, maustamaton, rasvaton, 05/12 alkaen",,1.0,,,,,,,,,,,,,,,
 F033716,1.0,402,False,False,False,"Jogurtti, maustettu, activia just 3, rasvaa 3%, probiootteja",,1.0,,,,,,,,,,,,,,,
 F033726,0.0,1101,False,False,False,"Kasvirasvalevite 70 %, teollinen tuotekeskiarvo",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
@@ -1572,7 +1572,7 @@ MT011,0.0,105,False,False,False,Pohjolan Meijeri Oattis mustikka kauravälipala,
 MT012,0.0,105,False,False,False,Alpro kaurajuoma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT013,0.0,107,False,False,False,Pågen Saaristolaisrieska,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT014,0.0,1302,False,False,False,Pirkka Punainen pestokastike,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-MT015,0.63,1103,False,False,False,Valio Oivariini 75% luomu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT015,0.63,1103,False,False,False,Valio Oivariini 75% luomu,0.0,0.0,0.0,0.0,0.0,0.0,0.63,0.0,0.0,0.0,0.0,0.0,0.37,0.0,0.0,0.0,0.0
 MT016,0.8,703,False,True,False,Kariniemen kananpojan rapeat sisäfileet,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT017,0.88,101,False,False,False,"Riisipuuro, maito, riisi, suolaa (luomu)",,,,,,,,,,,,,,,,,
 MT018,1.0,702,False,True,False,Naudan jauheliha 10%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1832,7 +1832,7 @@ MT2030,0.0,1202,False,False,False,"Suklaapatukka, vegaaninen, NoMo caramel",0.0,
 MT3000,1.0,702,False,True,False,"Grillimakkara, juustoinen, lihaisa, 26% rasvaa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3001,0.05,1203,False,False,False,Välipalapatukka CORNY BIG Maapähkinä-Suklaa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3002,0.0,,False,False,False," Innocent super smoothie antioxidant, täydennetty",,,,,,,,,,,,,,,,,
-MT3003,0.53,1103,False,False,False,Valio Oivariini oliiviöljy ja hieno merisuola HYLA,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT3003,0.53,1103,False,False,False,Valio Oivariini oliiviöljy ja hieno merisuola HYLA,0.0,0.0,0.0,0.0,0.0,0.0,0.53,0.0,0.0,0.0,0.0,0.0,0.47,0.0,0.0,0.0,0.0
 MT3004,0.0,1402,False,False,False,Hartwall Vichy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 MT3005,0.0,303,False,False,False,Lagom Snäkkäri kaura-siemennäkkileipä,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3006,1.0,402,False,False,False,"Jogurtti, maustamaton, a+ kreikkalainen, rasvaa 2 %, laktoositon, d-vitaminoimaton",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1875,7 +1875,7 @@ MT3043,0.0,104,False,False,False,"Ruisnacho, seesami&merisuola",0.0,0.0,0.0,0.0,
 MT3044,0.5,1202,False,False,False,"Jäätelö, kermajäätelö, suklaakuorrute, Magnum Classic",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3045,1.0,402,False,False,False,"Jogurtti, Kotimaista, Laktoositon maustamaton AB jogurtti, rasvaa 2,2%",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3046,0.0,103,False,False,False,"Muro, neljänviljan, Kotimaista Moniviljarinkula (kaura, ohra, vehnä, ruis)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT3047,0.56,1802,True,False,False," Itämeren kalapuikko, Apetit",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+MT3047,0.56,1802,True,False,False," Itämeren kalapuikko, Apetit",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.44,0.0,0.0,0.0,0.0,0.0,0.56
 MT3048,1.0,402,False,False,False,"Juustoportti AB-jogurtti 150 g musta kirsikka 3,5%",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3049,0.8,602,True,False,False,Hätälän lohipyörykkä,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 MT3050,0.0,1404,False,False,False," Kivennäisvesi, Kotimaista, mustikka-puolukka, sinkkiä ja C-vitamiinia, 17 kcal",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -1896,14 +1896,14 @@ MT3064,0.0,1204,False,False,False,"Jäätelö vegaaninen, Wicked Kitchen Cookie 
 MT3065,0.0,301,False,False,False,"Leikkele, kasvisleikkele, Pirkka Vege, ruohosipuli",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT3066,0.0,105,False,False,False,"Kaurajuoma, oatly suklaa, lisätty kalsiumia ja vitamiineja, päivitetty 10/2022",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3067,0.0,,False,False,False,"Tortilla, kaupan, vegaaninen, Amarillo Green Burrito",,,,,,,,,,,,,,,,,
-MT3068,0.56,1103,False,False,False,"Rasvaseoslevite, Vilmariini 75%, Pohjolan meijeri",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT3068,0.56,1103,False,False,False,"Rasvaseoslevite, Vilmariini 75%, Pohjolan meijeri",0.0,0.0,0.0,0.0,0.0,0.0,0.56,0.0,0.0,0.0,0.0,0.0,0.44,0.0,0.0,0.0,0.0
 MT3071,0.2,1202,False,False,False,"Suklaapatukka, Fazer, Crunchy, nougat&caramel ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 MT3073,0.0,1404,False,False,False,"Energiajuoma, vitaminoitu, suolaa 0,16 g",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 MT3074,0.2,1202,False,False,False,"Suklaa, Lindt, maitosuklaa, rasvaa 48%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 MT3075,0.0,107,False,False,False,Hönö saaristolaisrieska,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3076,0.63,1103,False,False,False,"Rasvaseoslevite, Oivariini Herkku 72 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3077,1.0,404,False,False,False,"Oltermanni, Valsa, vähemmän suolaa 29%",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT3078,0.0,1503,False,False,False,"Proteiinipatukka Barebells, Double bite caramel, sis. soija-&maitoproteiinia",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT3078,0.5,1503,False,False,False,"Proteiinipatukka Barebells, Double bite caramel, sis. soija-&maitoproteiinia",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
 MT3080,0.0,302,False,False,False,"Soijamakkara, Tofu kasvisgrilleri, Meeat",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT3081,0.0,106,False,False,False,"Mysli, AXA, granola, mansikka ja auringonkukansiemen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3082,0.0,302,False,False,False,"Soijavälipala, Alpro, maustettu, vitaminoitu, rasvaa 1,9%, vähemmän sokeria",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
