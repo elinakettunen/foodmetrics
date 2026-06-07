@@ -1,11 +1,15 @@
 import pandas as pd
 import re
 from pathlib import Path
+import sys
 
 from foodmetrics import FOOD_PROP_DTYPES
 
 UPDATE_FILE_PATH = '../food_properties_new_codes.csv'
 DB_FILE_NAME = "../food_properties.csv"
+
+def read(file_name):
+    return pd.read_csv(file_name,index_col='code', dtype=FOOD_PROP_DTYPES)
 
 def add_codes_from_local_file():
     new = read(UPDATE_FILE_PATH)
@@ -27,7 +31,9 @@ def update_from_google_sheet():
     if url:
         sheet_id = re.search(r'/d/([a-zA-Z0-9-_]+)', url).group(1)
         gid = re.search(r'[#&]gid=([0-9]+)', url)
-        gid = gid.group(1) if gid else '0'
+        gid = gid.group(1) if gid else sys.exit("Both sheet_id and gid are needed.")
+
+        print(f'sheet_id: {sheet_id} \n gid: {gid}')
 
         csv_url = f'https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={gid}'
         columns = list(FOOD_PROP_DTYPES.keys() - {'code'})
