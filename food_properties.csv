@@ -717,7 +717,7 @@ F029763,0.07,1201,False,False,False,"Sokerikorppu rasvattomaan maitoon, teolline
 F029764,0.0,1201,False,False,False,"Sokerikorppu veteen, teollinen",,,,,,,,,,,,,,,,,
 F029766,0.0,103,False,False,False,"Grahamkorppu veteen, teollinen",,,,,,,,,,,1.0,,,,,,
 F029769,0.0,103,False,False,False,"Keksi, suolakeksi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-F029770,0.0,103,False,False,False,"Keksi, voileipäkeksi, vesikeksi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F029770,0.0,103,False,False,False,"Keksi, voileipäkeksi, vesikeksi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.77,0.0,0.23,0.0,0.0,0.0,0.0
 F029771,0.0,110,False,False,False,"Näkkileipä, ruisnäkkileipä, kuitua 17 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 F029772,0.0,110,False,False,False,Hapankorppu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 F029776,0.0,103,False,False,False,"Muro, weetabix, muroke, vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
@@ -1162,7 +1162,7 @@ F032709,0.03,1101,False,False,False,"Margariini, talousmargariini 80 %, keskiarv
 F032710,0.2,1101,False,False,False,"Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 4 %, vl",,,,,,,,,,,,,,,,,
 F032711,0.0,201,False,False,False,"Ranskanperuna, uppopaistettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032713,0.0,102,False,False,False,"Popcorn, mikropopcorn",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-F032714,0.0,110,False,False,False,"Keksi, voileipäkeksi, ruis cracker, kantolan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032714,0.0,110,False,False,False,"Keksi, voileipäkeksi, ruis cracker, kantolan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.72,0.0,0.28,0.0,0.0,0.0,0.0
 F032721,0.2,1101,False,False,False,"Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 7 %, vl",,,,,,,,,,,,,,,,,
 F032724,1.0,702,False,True,False,"Raakamakkara, chorizo, kotitekoinen",,,,,,,,,1.0,,,,,,,,
 F032729,0.0,903,False,False,False,"Parsa, keitetty, suolaton",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
