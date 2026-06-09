@@ -440,7 +440,7 @@ F003230,0.01,903,False,False,False,"Sipuli, paistettu",0.0,0.0,0.0,0.0,0.0,1.0,0
 F003237,0.0,905,False,False,False,Hillosipulisäilyke,,,,,,1.0,,,,,,,,,,,
 F003265,0.26,1811,False,False,False,Tomaattikeitto,,,,,,,,,,,,,,,,,
 F003307,0.0,906,False,False,False,"Salaatti, lehtisalaatti-kurkku-tomaatti, vihersekasalaatti",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F003323,0.24,1302,False,False,False,"Pestokastike, yrttikastike",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+F003323,0.24,1302,False,False,False,"Pestokastike, yrttikastike",0.0,0.11,0.26,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.0,0.0,0.0,0.0
 F003337,0.05,201,False,False,False,"Salaatti, perunasalaatti, majoneesikastike",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F003341,0.0,906,False,False,False,"Porkkana, keitetty, suolaa",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F003342,0.0,901,False,False,False,"Kukkakaali, keitetty, suolaton",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1571,7 +1571,7 @@ MT010,0.0,302,False,False,False,Planti Trooppiset hedelmät soijavälipala,0.0,0
 MT011,0.0,105,False,False,False,Pohjolan Meijeri Oattis mustikka kauravälipala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT012,0.0,105,False,False,False,Alpro kaurajuoma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT013,0.0,107,False,False,False,Pågen Saaristolaisrieska,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT014,0.0,1302,False,False,False,Pirkka Punainen pestokastike,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.92,0.0,0.0,0.0,0.0
+MT014,0.0,1302,False,False,False,Pirkka Punainen pestokastike,0.0,0.04,0.07,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.87,0.0,0.0,0.0,0.0
 MT015,0.63,1103,False,False,False,Valio Oivariini 75% luomu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT016,0.8,703,False,True,False,Kariniemen kananpojan rapeat sisäfileet,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT017,0.88,101,False,False,False,"Riisipuuro, maito, riisi, suolaa (luomu)",,,,,,,,,,,,,,,,,
@@ -1768,7 +1768,7 @@ MT110,0.0,1004,False,False,False,"Rainbow trooppinen sose, hedelmäsose",0.0,0.0
 MT1100,0.0,1302,False,False,False,"Kastike, Hoi Sin kastike, Blue Dragon",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 MT1101,0.0,110,False,False,False,"Ruisleipä, tosi ohut tumma, Oululainen, reissumies",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 MT1102,0.0,1204,False,False,False,"Makeinen, vegaaninen fudge",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-MT1103,0.01,1302,False,False,False,"Pesto, vihreä pesto, Pirkka",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+MT1103,0.01,1302,False,False,False,"Pesto, vihreä pesto, Pirkka",0.0,0.11,0.26,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.01,0.0,0.0
 MT1104,0.0,905,False,False,False,"Sienisalaatti, vegaaninen, Vuorisalo",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT1105,0.0,1407,False,False,False,"Hedelmäsose, 100 % hedelmää, makeuttamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 MT111,0.0,1201,False,False,False,"Danerolles croissant, voisarvi, vegaaninen, valmistamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1811,7 +1811,7 @@ MT2008,0.0,103,False,False,False,"Nuudelit, vehnä - tattari, soba ",0.0,0.0,0.0
 MT2009,0.0,105,False,False,False,"Kauravalmiste, kauragurtti, Oddlygood mansikka boysenmarja vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT2011,0.0,302,False,False,False,"Soijavalmiste, luomu, alpro, maustamaton, 2,3%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT2012,0.0,301,False,False,False,"Kasvipohjainen Jauhis, Muu (Meeat), kasvisjauhis",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-MT2013,0.0,1302,False,False,False,"Pesto, vegaaninen, cashew, aruingonkukansiemen, oliiviöljy, suola (itsetehdyn reseptin pohjalta)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+MT2013,0.0,1302,False,False,False,"Pesto, vegaaninen, cashew, aruingonkukansiemen, oliiviöljy, suola (itsetehdyn reseptin pohjalta)",0.0,0.0,0.49,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.48,0.0,0.0,0.0,0.0
 MT2014,0.0,106,False,False,False,"Kasvimakkara, Muu kasviryynimakkara, (ohra, gluteeni, soija)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT2015,0.0,302,False,False,False,"Soijatuorejuusto, vegaaninen, rasvaa 9 %, Vemondo Lidl",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT2016,0.0,1601,False,False,False,"Ravintohiivahiutale, Marigold, Engevita, nutritional yeast",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
