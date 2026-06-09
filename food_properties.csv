@@ -1290,7 +1290,7 @@ F033199,0.46,1801,False,True,False,"Pasta-jauhelihapaistos, atria, valmisateria"
 F033204,0.0,901,False,False,False,"Kaali, valkokaali, keitetty, suolaton",,,,,,1.0,,,,,,,,,,,
 F033205,0.15,103,False,False,False,"Ohukainen, lettu, atria",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033207,0.0,905,False,False,False,"Tomaattisalsa, teollinen",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F033208,0.0,1302,False,False,False,"Kylmä kastike, avokadokastike, guacamole, teollinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+F033208,0.0,1302,False,False,False,"Kylmä kastike, avokadokastike, guacamole, teollinen",0.0,0.0,0.0,0.0,0.0,0.42,0.0,0.0,0.0,0.0,0.0,0.0,0.58,0.0,0.0,0.0,0.0
 F033215,0.0,111,False,False,False,"Sekaleipä, kauraleipä, kaurajuntta, ullan pakari",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033216,0.0,103,False,False,False,"Sekaleipä, aurinkosämpylät, ullan pakari",,,,,,,,,,,1.0,,,,,,
 F033217,0.0,110,False,False,False,"Ruisleipä, ruiskakko, ruissämpylät, ullan pakari",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
@@ -1648,7 +1648,7 @@ MT089,0.0,1405,False,False,False,"Valio mustikkakeitto, c-vitamiinia 40 mg",0.0,
 MT090,0.0,1403,False,False,False,"Clipper kaakaojauhe, sokeroitu, 40 % kaakaota",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 MT091,0.0,1204,False,False,False,"Vaniljakastike, kaurapohjainen, Oatly",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT092,0.0,301,False,False,False,"Punapaputahna, adukipaputahna",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-MT093,0.0,1302,False,False,False,"Vinegretti, salaatinkastike",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+MT093,0.0,1302,False,False,False,"Vinegretti, salaatinkastike",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 MT094,0.0,106,False,False,False,"Mysli, hedelmäinen, AXA Fruit",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT095,0.0,1002,False,False,False,Karhunvatukka,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT096,0.0,,False,False,False,"Yakisobanuudeli soijapavuilla ja kasviksilla, kitchen joy thai-cube, valmisateria",,,,,,,,,,,,,,,,,
