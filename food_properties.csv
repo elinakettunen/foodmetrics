@@ -659,7 +659,7 @@ F028991,0.9,1403,False,False,False,"Erikoiskahvijuoma, cafe au lait, makeuttamat
 F028993,0.0,1403,False,False,False,"Kahvi, caffe latte, makeuttamaton, täysmaito",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F029008,0.0,1302,False,False,False,Kasvisliemikuutio,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F029009,0.25,703,False,True,False,"Kanaliemikuutio, sisältää vehnää",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F029014,0.0,303,False,False,False,"Kookosmaito, kookosjuoma",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F029014,0.0,303,False,False,False,"Kookosmaito, kookosjuoma",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F029022,0.0,301,False,False,False,"Papu, vihreä papu, keitetty",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F029026,0.0,906,False,False,False,"Kasvisliemi, laimennettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F029048,0.0,906,False,False,False,"Wok-kasvikset, porkkana, herkkusieni, sipuli, paprika, herne",,,,,,1.0,,,,,,,,,,,
