@@ -1113,7 +1113,7 @@ F032480,0.0,1302,False,False,False,"Salaatinkastike, kartanon, saarioinen, rypsi
 F032482,0.0,1302,False,False,False,"Salaatinkastike, talon-, felix, rypsiöljypohjainen, rasvaa 20 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 F032483,0.0,1302,False,False,False,"Salaatinkastike, kreikkalainen-, felix, rypsiöljypohjainen, rasvaa 25 %",,,,,,,,,,,,,,,,,
 F032485,0.0,1302,False,False,False,"Salaatinkastike, hunaja-sinappi, felix, rypsiöljypohjainen, rasvaa 36 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-F032490,0.15,1201,False,False,False,"Pulla, korvapuusti, gifflar kanelikorvapuusti, pågen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032490,0.15,1201,False,False,False,"Pulla, korvapuusti, gifflar kanelikorvapuusti, pågen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.47,0.0,0.34,0.0,0.19,0.0,0.0
 F032493,0.05,1201,False,False,False,"Kakku, muffini, cremetäyte muffinsi kaakao, pågen",,,,,,,,,,,,,,,,,
 F032502,0.5,1202,False,False,False,"Makeinen, dumle, fazer, maitosuklaalla kuorrutettu toffee",0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0
 F032503,0.15,1202,False,False,False,"Makeinen, maitosuklaarae, m&m's/amerikan pastilli",0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.55,0.0,0.0
@@ -1308,7 +1308,7 @@ F033323,0.0,1503,False,False,False,"Urheilujuomatiiviste, hiilihydraattijuoma, d
 F033324,0.55,1801,False,True,False,"Tikka masala broileria jasmiiniriisillä, kitchen joy thai-cube, valmisateria",,,,,,,,,,,,,,,,,
 F033343,0.5,1503,False,False,False,"Urheilujuoma, proteiinijuoma, leader protein 40",,,,,,,,,,,,,,,,,
 F033344,1.0,402,False,False,False,"Rahka, välipalarahka, valio, rasvaa 2,9 %, vl, ei lisätty d-vitamiinia",,1.0,,,,,,,,,,,,,,,
-F033346,0.28,1201,False,False,False,"Pulla, keskirasvainen, kevytmaito",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F033346,0.28,1201,False,False,False,"Pulla, keskirasvainen, kevytmaito",0.0,0.04,0.0,0.0,0.03,0.0,0.09,0.0,0.0,0.0,0.63,0.0,0.09,0.0,0.12,0.0,0.0
 F033356,0.6,402,False,False,False,"Jogurtti, maustettu, activia, rasvaa 3 %, vl, probiootteja",,,,,,,,,,,,,,,,,
 F033357,0.0,1403,False,False,False,"Kahvi, murukahvi, pikakahvi, valmistamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F033364,0.75,703,False,True,False,"Broilerifilee, marinoitu, uunissa",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1712,7 +1712,7 @@ MT1048,0.0,1901,False,False,False,"Linssisipsi, Estrella",0.0,0.0,0.0,0.0,0.0,0.
 MT1049,0.05,1201,False,False,False,"Keksi, kaurakeksi, gluteeniton, teollinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT105,0.0,107,False,False,False,"Omena-inkivääri-kaneli granola, Pirkka Parhaat",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT1050,0.65,1802,True,False,False,"Kalapuikko, gluteeniton, Findus",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-MT1051,0.0,103,False,False,False,"Pizzapohja, hiivataikina",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT1051,0.0,103,False,False,False,"Pizzapohja, hiivataikina",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.85,0.0,0.15,0.0,0.0,0.0,0.0
 MT1052,0.0,105,False,False,False,"Kauravalmiste, hapatettu, Oddlygood Mango, vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT1053,0.0,105,False,False,False,"Sekaleipä, kauraleipä, Mummin kauravuoka, Verainen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT1054,0.0,302,False,False,False,"Soijavalmiste, vaihtoehto kermalle, rasvaa 15%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
@@ -1882,7 +1882,7 @@ MT3050,0.0,1404,False,False,False," Kivennäisvesi, Kotimaista, mustikka-puolukk
 MT3051,0.0,901,False,False,False,Babypinaatti (USDA),0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3052,0.0,105,False,False,False,"Kauramuro, Fazer for Minis Kauratähti",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3053,1.0,404,False,False,False,"Raejuusto, pehmeä, rasvaa 2,4 %",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT3054,0.0,1405,False,False,False,"Mustikkakeitto, Marli, lisättyä C- ja D-vitamiinia, sinkkiä",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT3054,0.0,1405,False,False,False,"Mustikkakeitto, Marli, lisättyä C- ja D-vitamiinia, sinkkiä",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 MT3055,0.0,101,False,False,False,"Sekaleipä, siemenleipä, gluteeniton (Paraspala)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3056,0.0,1302,False,False,False,Wasabi (USDA),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 MT3057,1.0,402,False,False,False,"Piimä, rasvaton, ei lisättyä D-vitamiinia, probiootteja",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
