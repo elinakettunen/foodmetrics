@@ -424,7 +424,7 @@ F001510,0.9,106,False,False,False,"Ohrapuuro, maito, ohrahiutale, suolaa",,,,,,,
 F001554,0.17,1901,False,False,False,Juustonaksu,0.0,0.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.54,0.0,0.0,0.0,0.0
 F001568,0.85,101,False,False,False,"Riisipuuro, maito, riisi, suolaa",,,,,,,,,,,,,,,,,
 F001575,0.0,106,False,False,False,"Hirssi, keitetty, suolaa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-F002002,0.01,201,False,False,False,"Peruna, paistettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F002002,0.01,201,False,False,False,"Peruna, paistettu",0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.66,0.0,0.0,0.27,0.0,0.0,0.0,0.0
 F002009,0.05,905,False,False,False,Purjo-perunasosekeitto veteen,,,,,,,,,,,,,,,,,
 F002023,0.05,201,False,False,False,"Perunasose, vesi, perunasosejauheesta",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F002025,0.0,201,False,False,False,"Ranskanperuna, uunissa kypsennetty",,,,,,,,,,1.0,,,,,,,
@@ -1160,7 +1160,7 @@ F032705,0.1,1204,False,False,False,"Jäätelö, kasvirasvajäätelö",,,,,,,,,,,
 F032708,0.74,403,False,False,False,"Kermavaahtospray, teollinen",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032709,0.03,1101,False,False,False,"Margariini, talousmargariini 80 %, keskiarvo, leivontaan ja ruoanlaittoon",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 F032710,0.2,1101,False,False,False,"Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 4 %, vl",,,,,,,,,,,,,,,,,
-F032711,0.0,201,False,False,False,"Ranskanperuna, uppopaistettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032711,0.0,201,False,False,False,"Ranskanperuna, uppopaistettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.0,0.0,0.39,0.0,0.0,0.0,0.0
 F032713,0.0,102,False,False,False,"Popcorn, mikropopcorn",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032714,0.0,110,False,False,False,"Keksi, voileipäkeksi, ruis cracker, kantolan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.72,0.0,0.28,0.0,0.0,0.0,0.0
 F032721,0.2,1101,False,False,False,"Ruoanvalmistuskerma, kasvirasvakerma, rasvaa 7 %, vl",,,,,,,,,,,,,,,,,
@@ -1195,7 +1195,7 @@ F032807,0.75,1801,False,True,False,"Perunalaatikko, jauhelihakiusaus, kokkikarta
 F032816,0.1,1801,False,False,False,"Lihapiirakka, keskiarvo, teollinen",,,,,,,,,,,,,,,,,
 F032822,0.5,1802,True,False,False,"Kalapaistos, hk, valmisateria",,,,,,,,,,,,,,,,,
 F032832,0.58,1204,False,False,False,"Jälkiruokakastike, vaniljakastike, kevytmaito, perunajauho",,,,,,,,,,,,,,,,,
-F032837,0.67,1204,False,False,False,"Jälkiruokakastike, kinuskikastike",0.0,0.77,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0
+F032837,0.67,1204,False,False,False,"Jälkiruokakastike, kinuskikastike",0.0,0.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.38,0.0,0.0
 F032847,0.5,1801,False,True,False,"Kanaviillokki, hk, valmisateria",,,,,,,,,,,,,,,,,
 F032848,0.5,1801,False,True,False,"Kana-vuohenjuustopasta, hk via, valmisateria",,,,,,,,,,,,,,,,,
 F032849,0.0,103,False,False,False,"Muro, neljänviljanmuro, elovena täysjyvämuro 4 viljaa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1924,7 +1924,7 @@ MT3096,0.0,1101,False,False,False,"Öljy, pellavansiemenöljy, kylmäpuristettu"
 MT3097,0.0,101,False,False,False,"Karjalanpiirakka, teollinen, vegaaninen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3098,0.0,301,False,False,False,"Kasvispihvi, Beyond Meat, Beyond burger",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.47,0.33,0.0,0.0,0.0
 MT3099,0.0,303,False,False,False,"Vegaaninen juusto, Epic mature cheddar",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT3100,1.0,1503,False,False,False,"Proteiinijuoma, suklaa, SportyFeel",0.0,0.65,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.27,0.0,0.0
+MT3100,1.0,1503,False,False,False,"Proteiinijuoma, suklaa, SportyFeel",0.0,0.73,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.27,0.0,0.0
 MT3101,0.0,103,False,False,False,"Kasvispihvi, Muu Premium burgerpihvi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3102,0.0,301,False,False,False,"Kasvipohjainen jauhis, Peas of heaven",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT3103,0.1,1202,False,False,False,"Suklaa, vähäkalorinen, sokeriton, rasvaa 24 %",0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.82,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.0
