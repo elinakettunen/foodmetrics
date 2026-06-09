@@ -691,7 +691,7 @@ F029210,1.0,401,False,False,False,"Maito, kevytmaito, ei lisätty d-vitamiinia, 
 F029211,1.0,401,False,False,False,"Maito, rasvaton, ei lisätty d-vitamiinia, luomu",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F029212,1.0,402,False,False,False,"Piimä, rasvaton, ei lisätty d-vitamiinia, luomu",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F029215,0.0,1406,False,False,False,"Mehu, mehujuoma, c-vitamiinia",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-F029228,1.0,404,False,False,False,"Juusto, fetajuusto, vuohenmaito, öljyssä",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F029228,1.0,404,False,False,False,"Juusto, fetajuusto, vuohenmaito, öljyssä",0.0,0.84,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.0,0.0,0.0
 F029229,0.0,906,False,False,False,"Porkkana, keitetty, suolaton",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F029237,0.0,110,False,False,False,Ruislese,,,,,,,,,,,1.0,,,,,,
 F029239,1.0,404,False,False,False,"Juusto, mozzarella, rasvaa 20 %, tuorejuusto",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -833,7 +833,7 @@ F030631,0.0,1101,False,False,False,"Margariini 60 %, teollinen tuotekeskiarvo",0
 F030632,0.0,1101,False,False,False,Margariini 80 % laktoositon,,,,,,,,,,,,,1.0,,,,
 F030638,0.0,1401,False,False,False,"Gin long drink, kevyt 4,7 til%",,,,,,,,,,,,1.0,,,,,
 F030646,1.0,403,False,False,False,"Ruoanvalmistuskerma, rasvaa 5 g, vähälaktoosinen",,1.0,,,,,,,,,,,,,,,
-F030665,0.75,1502,False,False,False,"Ateriankorvike, proteiinipatukka, keskiarvo, n. 30 % proteiinia",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F030665,0.75,1502,False,False,False,"Ateriankorvike, proteiinipatukka, keskiarvo, n. 30 % proteiinia",0.0,0.72,0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0
 F030669,0.0,906,False,False,False,"Nuppuvihannes, keitetty, suolaton, kukkakaali, porkkana, parsakaali",,,,,,1.0,,,,,,,,,,,
 F030673,0.65,402,False,False,False,"Marja-/hedelmärahka, rasvaa 3,5 %",,,,,,,,,,,,,,,,,
 F030676,1.0,702,False,True,False,Naudanfilee uunissa paistettu,,,,,,,,,1.0,,,,,,,,
@@ -1260,7 +1260,7 @@ F033103,0.6,402,False,False,False,"Jogurtti, maustettu, valio olo, rasvaa 2,7 %,
 F033106,0.7,402,False,False,False,"Jogurtti, intialainen jogurttijuoma, mangolassi",,,,,,,,,,,,,,,,,
 F033113,0.0,1406,False,False,False,"Mehu, mehujuoma, mehukatti pillijuoma, täydennetty",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 F033119,1.0,404,False,False,False,"Juusto, salaattijuusto, rasvaa 9-11 %, lehmänmaito, suolaliemessä",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F033120,0.55,404,False,False,False,"Juusto, salaattijuusto, rasvaa 22 %, lehmänmaito, öljyssä",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F033120,0.55,404,False,False,False,"Juusto, salaattijuusto, rasvaa 22 %, lehmänmaito, öljyssä",0.0,0.81,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.19,0.0,0.0,0.0,0.0
 F033122,0.0,302,False,False,False,"Soijajuoma, alpro maustamaton, kalsiumia ja vitamiineja",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F033124,0.0,302,False,False,False,"Soijajuoma, rainbow, kalsiumia ja vitamiineja",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F033125,0.0,302,False,False,False,"Soijajuoma, pirkka luomu maustamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
@@ -1533,7 +1533,7 @@ F034983,1.0,1503,False,False,False,Heraproteiinikonsentraatti,0.0,1.0,0.0,0.0,0.
 F034984,1.0,401,False,False,False,"Kaakaojuoma, valio play maitokaakaojuoma, laktoositon",0.0,0.57,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.43,0.0,0.0
 F034988,0.0,1402,False,False,False,"Kivennäisvesi, mehu-kivennäisvesi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F034989,0.0,1402,False,False,False,"Vitamiinivesi, vitamin well, fruktoosia",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-F034992,0.75,1502,False,False,False,"Ateriankorvike, proteiinipatukka, keskiarvo, n. 20 % proteiinia",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F034992,0.75,1502,False,False,False,"Ateriankorvike, proteiinipatukka, keskiarvo, n. 20 % proteiinia",0.0,0.74,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.24,0.0,0.02,0.0,0.0
 F034996,0.0,1503,False,False,False,"Ateriankorvike, soijaproteiinijauhe, n. 80 % proteiinia",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F034998,1.0,1503,False,False,False,"Profeel proteiinijuoma, sokeroimaton, valio, d-vitamiinia 1 ug",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F035006,0.0,1101,False,False,False,"Kasviöljyvalmiste, juokseva, 70 %, keskiarvo",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
@@ -1903,7 +1903,7 @@ MT3074,0.2,1202,False,False,False,"Suklaa, Lindt, maitosuklaa, rasvaa 48%",0.0,0
 MT3075,0.0,107,False,False,False,Hönö saaristolaisrieska,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3076,0.63,1103,False,False,False,"Rasvaseoslevite, Oivariini Herkku 72 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3077,1.0,404,False,False,False,"Oltermanni, Valsa, vähemmän suolaa 29%",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT3078,0.0,1503,False,False,False,"Proteiinipatukka Barebells, Double bite caramel, sis. soija-&maitoproteiinia",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT3078,0.0,1503,False,False,False,"Proteiinipatukka Barebells, Double bite caramel, sis. soija-&maitoproteiinia",0.0,0.32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.35,0.33,0.0,0.0,0.0
 MT3080,0.0,302,False,False,False,"Soijamakkara, Tofu kasvisgrilleri, Meeat",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.655,0.345,0.0,0.0,0.0
 MT3081,0.0,106,False,False,False,"Mysli, AXA, granola, mansikka ja auringonkukansiemen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3082,0.0,302,False,False,False,"Soijavälipala, Alpro, maustettu, vitaminoitu, rasvaa 1,9%, vähemmän sokeria",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
@@ -1924,7 +1924,7 @@ MT3096,0.0,1101,False,False,False,"Öljy, pellavansiemenöljy, kylmäpuristettu"
 MT3097,0.0,101,False,False,False,"Karjalanpiirakka, teollinen, vegaaninen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3098,0.0,301,False,False,False,"Kasvispihvi, Beyond Meat, Beyond burger",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.47,0.33,0.0,0.0,0.0
 MT3099,0.0,303,False,False,False,"Vegaaninen juusto, Epic mature cheddar",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT3100,1.0,1503,False,False,False,"Proteiinijuoma, suklaa, SportyFeel",0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.0,0.0,0.0,0.0,0.0,0.72,0.0,0.0
+MT3100,1.0,1503,False,False,False,"Proteiinijuoma, suklaa, SportyFeel",0.0,0.65,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.27,0.0,0.0
 MT3101,0.0,103,False,False,False,"Kasvispihvi, Muu Premium burgerpihvi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3102,0.0,301,False,False,False,"Kasvipohjainen jauhis, Peas of heaven",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT3103,0.1,1202,False,False,False,"Suklaa, vähäkalorinen, sokeriton, rasvaa 24 %",0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.82,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.0
