@@ -1091,7 +1091,7 @@ F032404,0.0,1302,False,False,False,"Dippikastikejauhe, maidoton, kastikeainekset
 F032405,1.0,403,False,False,False,"Kylmä kastike, kermaviilikastike, dippikastike, rasvaa 10-12 %, jauheesta",,1.0,,,,,,,,,,,,,,,
 F032407,1.0,702,False,True,False,"Meetvursti, ultrakevyt, rasvaa 9 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032409,1.0,702,False,True,False,"Kokolihaleikkele, korppukinkku, rasvaa 3 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F032418,0.0,111,False,False,False,"Kauravalmiste, hapatettu, maustettu, yosa, keskiarvo, probiootteja",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.6,0.0
+F032418,0.0,111,False,False,False,"Kauravalmiste, hapatettu, maustettu, yosa, keskiarvo, probiootteja",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.11,0.0,0.4,0.49,0.0
 F032422,1.0,401,False,False,False,"Välipalajuoma, tehojuoma, hedelmä, gefilus, c- ja d-vitamiinia, probiootteja",,1.0,,,,,,,,,,,,,,,
 F032431,0.0,1101,False,False,False,"Kasviöljyvalmiste, juokseva, 80 %, sunnuntai, rypsiöljy",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 F032444,0.0,106,False,False,False,"Mysli, hedelmäinen, pirkka",,,,,,,,,,,1.0,,,,,,
@@ -1568,7 +1568,7 @@ MT007,0.0,301,False,False,False,Pouttu Muu kasvigrillimakkara,0.0,0.0,0.0,0.0,0.
 MT008,0.0,201,False,False,False,Gnocchi (Rummo),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT009,0.0,303,False,False,False,Violife Mozzarella-raaste (vegaaninen),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT010,0.0,302,False,False,False,Planti Trooppiset hedelmät soijavälipala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.57,0.43,0.0,0.0
-MT011,0.0,105,False,False,False,Pohjolan Meijeri Oattis mustikka kauravälipala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.48,0.52,0.0
+MT011,0.0,105,False,False,False,Pohjolan Meijeri Oattis mustikka kauravälipala,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.48,0.27,0.0
 MT012,0.0,105,False,False,False,Alpro kaurajuoma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT013,0.0,107,False,False,False,Pågen Saaristolaisrieska,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT014,0.0,1302,False,False,False,Pirkka Punainen pestokastike,0.0,0.04,0.07,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.87,0.0,0.0,0.0,0.0
@@ -1582,7 +1582,7 @@ MT021,0.0,103,False,False,False,Vöner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 MT022,0.0,105,False,False,False,"Kauravalmiste, vaihtoehto kermalle, rasvaa 16 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT024,0.0,302,False,False,False,Alpro Chocolate soijajuoma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT025,0.0,1101,False,False,False,Keiju 3 öljyä rypsiöljymargariini 60%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-MT026,0.0,107,False,False,False,AXA Roasted Oats Hazelnut & Cashew granola,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT026,0.0,107,False,False,False,AXA Roasted Oats Hazelnut & Cashew granola,0.0,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.24,0.0,0.08,0.47,0.0
 MT027,0.0,302,False,False,False,"Soijavälipala Alpro vadelma-omena, sokeroimaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT028,0.0,105,False,False,False,Jyväshyvä välipalakeksi vadelma-mustikka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT029,0.0,1203,False,False,False,Ehrmann Veo Veg Vanukas Suklaa,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.54,0.0,0.0,0.0,0.0,0.0,0.0,0.31,0.0,0.0
@@ -1639,14 +1639,14 @@ MT080,0.0,1404,False,False,False,"Original long drink grapefruit 0,0 %, alkoholi
 MT081,0.0,1302,False,False,False,"Ketsuppi, ei lisättyä sokeria tai suolaa, Heinz",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT082,0.0,105,False,False,False,Elovena täysjyväkauramuro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 MT083,1.0,404,False,False,False,"Juusto, ricotta, rasvaa 11 %",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT084,0.0,105,False,False,False,"Suomen jäätelö, kaurajäätelö, tumma suklaa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.38,0.62,0.0
+MT084,0.0,105,False,False,False,"Suomen jäätelö, kaurajäätelö, tumma suklaa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.0,0.0,0.0,0.0,0.0,0.38,0.33,0.0
 MT085,0.0,103,False,False,False,"Leipä, Fazer Arjen Ihana Kaura Hapanjuuri",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT086,1.0,404,False,False,False,"Juusto, gouda, luomu, Valio",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT087,0.5,1204,False,False,False,Fazer Pätkis kermajäätelö,0.0,0.74,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0
 MT088,0.0,302,False,False,False,"Soijavalmiste, Alpro no added sugars, mango",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.63,0.37,0.0,0.0
 MT089,0.0,1405,False,False,False,"Valio mustikkakeitto, c-vitamiinia 40 mg",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 MT090,0.0,1403,False,False,False,"Clipper kaakaojauhe, sokeroitu, 40 % kaakaota",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-MT091,0.0,1204,False,False,False,"Vaniljakastike, kaurapohjainen, Oatly",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.32,0.68,0.0
+MT091,0.0,1204,False,False,False,"Vaniljakastike, kaurapohjainen, Oatly",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.58,0.0,0.0,0.0,0.0,0.0,0.0,0.32,0.1,0.0
 MT092,0.0,301,False,False,False,"Punapaputahna, adukipaputahna",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT093,0.0,1302,False,False,False,"Vinegretti, salaatinkastike",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 MT094,0.0,106,False,False,False,"Mysli, hedelmäinen, AXA Fruit",0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.74,0.0
@@ -1791,7 +1791,7 @@ MT128,0.0,103,False,False,False,Kaura-Porkkana Täysjyvämakaroni,0.0,0.0,0.0,0.
 MT129,0.0,103,False,False,False,"Vegenugetti, vehnäproteiini, Findus",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT130,0.0,901,False,False,False,"Paksoi, pak-choi, pinaattikiinankaali",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT131,0.0,1203,False,False,False,"Mansikkahillo, 25g sokeria",0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.0,0.0
-MT132,0.0,106,False,False,False,"Mysli, granola, Tesco Honey Nut Clusters",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT132,0.0,106,False,False,False,"Mysli, granola, Tesco Honey Nut Clusters",0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.2,0.45,0.0
 MT133,0.8,402,False,False,False,"Vadelmarahka, rasvaton, Xtra",0.0,0.53,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.47,0.0,0.0
 MT134,0.0,302,False,False,False,"Tofuvarras, Sofine",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT135,0.0,1202,False,False,False,"Ichoc super nut, riisimaitosuklaa",0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.62,0.0,0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0
@@ -1808,7 +1808,7 @@ MT2005,0.0,1601,False,False,False,"Ravintohiivahiutale, Foodin",0.0,0.0,0.0,0.0,
 MT2006,0.0,303,False,False,False,"Tuorejuusto, vegaaninen, violife (suola 1,2%)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT2007,0.0,1101,False,False,False,"Voi, vegaaninen, violife 79%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 MT2008,0.0,103,False,False,False,"Nuudelit, vehnä - tattari, soba ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT2009,0.0,105,False,False,False,"Kauravalmiste, kauragurtti, Oddlygood mansikka boysenmarja vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.44,0.56,0.0
+MT2009,0.0,105,False,False,False,"Kauravalmiste, kauragurtti, Oddlygood mansikka boysenmarja vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0,0.44,0.44,0.0
 MT2011,0.0,302,False,False,False,"Soijavalmiste, luomu, alpro, maustamaton, 2,3%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT2012,0.0,301,False,False,False,"Kasvipohjainen Jauhis, Muu (Meeat), kasvisjauhis",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT2013,0.0,1302,False,False,False,"Pesto, vegaaninen, cashew, aruingonkukansiemen, oliiviöljy, suola (itsetehdyn reseptin pohjalta)",0.0,0.0,0.49,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.48,0.0,0.0,0.0,0.0
@@ -1848,14 +1848,14 @@ MT3015,0.0,1205,False,False,False,Agave-siirappi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3016,0.0,302,False,False,False,"Soijavälipala, Planti Soygurt, mango, luomu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.56,0.44,0.0,0.0
 MT3017,0.0,302,False,False,False,"Hälsans Kök Fileepalat, soijasta, vegaaninen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT3018,0.0,302,False,False,False,"Hälsans Kök soijarouhe (sis. rapsiöljyä, vehnäproteiinia)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-MT3019,0.0,105,False,False,False,"Kaurajäätelö, Pingviini vanilja, vegaaninen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.36,0.64,0.0
-MT3020,0.0,105,False,False,False,"Kaurajäätelö, Oatly mansikka, vegaaninen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.41,0.59,0.0
+MT3019,0.0,105,False,False,False,"Kaurajäätelö, Pingviini vanilja, vegaaninen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.42,0.0,0.0,0.0,0.0,0.0,0.0,0.36,0.22,0.0
+MT3020,0.0,105,False,False,False,"Kaurajäätelö, Oatly mansikka, vegaaninen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.51,0.0,0.0,0.0,0.0,0.0,0.0,0.41,0.08,0.0
 MT3021,0.0,302,False,False,False,Hälsans kök vegaaniset nuggetit (sis. soijaa),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT3022,0.0,103,False,False,False,"Kuskus, täysjyvä, GoGreen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3023,0.0,303,False,False,False,"Juusto, vegaaninen, Valio Oddlygood veggie raaste",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3024,0.0,302,False,False,False,"Tofu, Jalotofu, maustamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT3025,0.0,302,False,False,False,"Hesburger VEKE-kasvispihvi, vegaaninen (soija, herne, härkäpapu) ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.38,0.62,0.0,0.0,0.0
-MT3026,0.0,105,False,False,False,"Kaurajuoma appelsiini-mango, Oatly, täydentämätön",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.66,0.34,0.0
+MT3026,0.0,105,False,False,False,"Kaurajuoma appelsiini-mango, Oatly, täydentämätön",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.66,0.26,0.0
 MT3027,0.0,302,False,False,False,"Soijajogurtti, maustettu, Alpro Plantgurt vanilja, rasvaa 2.2%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.55,0.45,0.0,0.0
 MT3029,0.0,1601,False,False,False,"Ravintohiivahiutale, keskiarvo",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 MT3030,0.0,1601,False,False,False,"Ravintohiivahiutale, Rikas, VegeFit (Life)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -1894,7 +1894,7 @@ MT3062,0.0,301,False,False,False,"Kasvispihvi, Muu burgerpihvi (herneproteiini)"
 MT3063,0.0,201,False,False,False,"Vegaaninen juusto, Rainbow Vegan Cheddar",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3064,0.0,1204,False,False,False,"Jäätelö vegaaninen, Wicked Kitchen Cookie Dough",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3065,0.0,301,False,False,False,"Leikkele, kasvisleikkele, Pirkka Vege, ruohosipuli",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-MT3066,0.0,105,False,False,False,"Kaurajuoma, oatly suklaa, lisätty kalsiumia ja vitamiineja, päivitetty 10/2022",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.48,0.52,0.0
+MT3066,0.0,105,False,False,False,"Kaurajuoma, oatly suklaa, lisätty kalsiumia ja vitamiineja, päivitetty 10/2022",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.48,0.3,0.0
 MT3067,0.0,,False,False,False,"Tortilla, kaupan, vegaaninen, Amarillo Green Burrito",,,,,,,,,,,,,,,,,
 MT3068,0.56,1103,False,False,False,"Rasvaseoslevite, Vilmariini 75%, Pohjolan meijeri",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3071,0.2,1202,False,False,False,"Suklaapatukka, Fazer, Crunchy, nougat&caramel ",0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0
@@ -1944,9 +1944,9 @@ MT3116,0.0,1201,False,False,False," Keksi, vegaaninen, Vemondo kaurakeksi, rusin
 MT3117,0.0,,False,False,False,"Annospuuro, Elovena, suklaa-vadelma (valmistamaton)",,,,,,,,,,,,,,,,,
 MT3118,1.0,401,False,False,False,"Kondensoitu maito, sokeroitu",0.0,0.43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.57,0.0,0.0
 MT3119,0.0,107,False,False,False,"Muro, monivilja, Hoops moniviljarinkula, Rainbow",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT3120,0.0,105,False,False,False,"Kauravälipala, maustettu, vitaminoitu, Elovena",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.38,0.62,0.0
-MT3121,0.0,106,False,False,False,"Mysli, Myllärin Sporttimysli",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT3122,0.0,105,False,False,False,"Kauravalmiste, hapatettu, oatly havregurt, maustettu, vitaminoitu päivitetty 3/2023",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.39,0.61,0.0
+MT3120,0.0,105,False,False,False,"Kauravälipala, maustettu, vitaminoitu, Elovena",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.38,0.33,0.0
+MT3121,0.0,106,False,False,False,"Mysli, Myllärin Sporttimysli",0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.09,0.0,0.0,0.12,0.0,0.12,0.0,0.14,0.5,0.0
+MT3122,0.0,105,False,False,False,"Kauravalmiste, hapatettu, oatly havregurt, maustettu, vitaminoitu päivitetty 3/2023",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.39,0.39,0.0
 MT3123,0.0,303,False,False,False,"Jäätelö, vegaaninen (Hazelnut icecream vemondo)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 MT3124,0.0,1201,False,False,False,"Porkkanapiirakka, Fazer, vegaaninen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT3125,0.0,106,False,False,False," ""Piltti Taapero marjainen välipalapatukka""",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1969,7 +1969,7 @@ MT4016,0.0,1501,False,False,False,"Valio Onni vadelma-mustikkapuuro, maidoton, v
 MT4017,0.0,1501,False,False,False,"Semper hedelmä-kaurapuuro, maidoton, vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.7,0.0
 MT4018,0.0,1501,False,False,False,"Valio Onni banaani-mustaherukkapuuro, maidoton, vitaminoitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT4019,0.0,1101,False,False,False,Saksanpähkinäöljy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-MT4020,0.0,105,False,False,False,"Kauravälipala, Fazer Aito, maustettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.34,0.66,0.0
+MT4020,0.0,105,False,False,False,"Kauravälipala, Fazer Aito, maustettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.34,0.0,0.34,0.32,0.0
 MT4022,0.0,302,False,False,False,"Soijavälipala, soijavalmiste, Alpro More Fruit, maustettu, rasvaa 2%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT4023,0.0,107,False,False,False,"Muro, neljänviljanmuro, sokeroimaton, TalkMuru",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 MT4024,0.0,105,False,False,False,"Kauratortilla, MyllynParas",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
