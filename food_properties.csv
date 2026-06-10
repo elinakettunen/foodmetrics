@@ -986,7 +986,7 @@ F031940,0.6,1204,False,False,False,"Vanukas, kaakaovanukas, jacky",,,,,,,,,,,,,,
 F031943,1.0,702,False,True,False,"Lihapulla, lihapyörykkä hk/pirkka",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031956,1.0,402,False,False,False,"Rahka, marja-hedelmä, rasvaton, keinotekoisesti makeutettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031959,1.0,403,False,False,False,"Ruoanvalmistuskerma, maustettu, kolmen juuston, rasvaa 10 % , vl",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F031966,0.6,1302,False,False,False,"Kerma, kuohukerma, kasvirasvakerma, flora kuohu, rasvaa 26 %",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F031966,0.12,1302,False,False,False,"Kerma, kuohukerma, kasvirasvakerma, flora kuohu, rasvaa 26 %",0.0,0.12,0.0,0.0,0.0,0.0,0.0,0.30,0.0,0.0,0.0,0.0,0.58,0.0,0.0,0.0,0.0
 F031968,0.5,1204,False,False,False,"Jäätelö, kermajäätelö, laktoositon",,,,,,,,,,,,,,,,,
 F031970,0.5,1204,False,False,False,"Jäätelö, kermajäätelöä ja keksiä, puffet",,,,,,,,,,,,,,,,,
 F031971,0.5,1204,False,False,False,"Jäätelö, kevyt, rasvaa 4,5 %",,,,,,,,,,,,,,,,,
