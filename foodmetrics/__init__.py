@@ -33,7 +33,8 @@ FOOD_PROP_DTYPES = {
 	'ep_phd_plant_oils_saturated': 'Float32',
 	'ep_phd_animal_fats': 'Float32',
 	'ep_phd_sugar': 'Float32',
-	'ep_phd_none': 'Float32'
+	'ep_phd_none': 'Float32',
+	'ep_phd_alcohol': 'Float32'
 }
 
 def get_latest_version_info() -> Dict[str, str]:
