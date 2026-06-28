@@ -1459,7 +1459,7 @@ F033912,1.0,402,False,False,False,"Jogurtti, juotava, actimel powerfruit,  rasva
 F033913,1.0,401,False,False,False,"Kaakaojuoma, kidius maitokaakaojuoma",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033925,0.0,903,False,False,False,"Quorn, fileet, kuutiot, rouhe",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033927,1.0,703,False,True,False,"Kokolihaleikkele, kalkkunaleikkele",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F033928,0.0,1004,False,False,False,"Omenasose, sokeroitu",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F033928,0.0,1004,False,False,False,"Omenasose, sokeroitu",0.0,0.0,0.0,0.32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.68,0.0,0.0,0.0
 F034127,1.0,401,False,False,False,"Kevytmaito, valio maito plus, d-vitamiinia 2 ug",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034136,0.0,901,False,False,False,"Merilevä, nori, kuivattu",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034137,0.0,901,False,False,False,"Merilevä, wakame, kuivattu",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1770,7 +1770,7 @@ MT1101,0.0,110,False,False,False,"Ruisleipä, tosi ohut tumma, Oululainen, reiss
 MT1102,0.0,1204,False,False,False,"Makeinen, vegaaninen fudge",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT1103,0.11,1302,False,False,False,"Pesto, vihreä pesto, Pirkka",0.0,0.11,0.26,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.01,0.0,0.0,0.0
 MT1104,0.0,905,False,False,False,"Sienisalaatti, vegaaninen, Vuorisalo",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT1105,0.0,1407,False,False,False,"Hedelmäsose, 100 % hedelmää, makeuttamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+MT1105,0.0,1407,False,False,False,"Hedelmäsose, 100 % hedelmää, makeuttamaton",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT111,0.0,1201,False,False,False,"Danerolles croissant, voisarvi, vegaaninen, valmistamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT112,0.0,1601,False,False,False,"Ravintohiivahiutale, VitaM",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT113,0.0,303,False,False,False,"Tumma tahini, Foodin",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
