@@ -204,7 +204,7 @@ F000463,0.0,1406,False,False,False,"Mehu, höyrymehu laimennettu, sokeriton",0.0
 F000469,0.0,1407,False,False,False,"Täysmehu, viiden hedelmän mehu, c-vitamiinia",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F000470,0.0,1406,False,False,False,Mehujuoma keinotekoisesti makeutettu,,,,,,,,,,,,,,,,,,0.0
 F000471,0.0,1004,False,False,False,"Ananas, omassa liemessään",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
-F000472,0.0,1004,False,False,False,"Omenasose, makeuttamaton",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F000472,0.0,1004,False,False,False,"Omenasose, makeuttamaton",0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.85,0.0,0.0,0.0
 F000473,0.0,1406,False,False,False,"Mehu, nektari, hedelmäjuoma, hedelmäpitoisuus 50 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F000474,0.0,1407,False,False,False,"Täysmehu, marjatäysmehu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F000477,0.0,1002,False,False,False,"Meloni, verkkomeloni/cantaloupemeloni, kuorittu",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -577,8 +577,8 @@ F011209,1.0,602,True,False,False,Kirjolohifilee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
 F011211,1.0,404,False,False,False,"Juusto, fetajuusto, rasvaa 25 %, vuohenmaito, suolaliemessä",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F011212,0.0,303,False,False,False,"Auringonkukansiemen, kuorittu",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F011287,0.1,1101,False,False,False,Kasvirasvalevite 28% mini lätta,,,,,,,,,,,,,,,,,,0.0
-F011469,0.0,1002,False,False,False,"Hedelmäsose, teollinen lastenruoka, tuotekeskiarvo",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F011470,0.0,1004,False,False,False,"Marjasose, teollinen lastenruoka, tuotekeskiarvo",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F011469,0.0,1002,False,False,False,"Hedelmäsose, teollinen lastenruoka, tuotekeskiarvo",0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.65,0.0,0.0,0.0
+F011470,0.0,1004,False,False,False,"Marjasose, teollinen lastenruoka, tuotekeskiarvo",0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0
 F011503,0.0,1407,False,False,False,"Täysmehu, rypäletäysmehu Vitis vinifera",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F011505,0.0,1002,False,False,False,"Banaanilastu, kuivattu banaani",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F011507,0.0,101,False,False,False,Riisitärkkelys,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1459,7 +1459,7 @@ F033912,1.0,402,False,False,False,"Jogurtti, juotava, actimel powerfruit,  rasva
 F033913,1.0,401,False,False,False,"Kaakaojuoma, kidius maitokaakaojuoma",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033925,0.0,903,False,False,False,"Quorn, fileet, kuutiot, rouhe",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033927,1.0,703,False,True,False,"Kokolihaleikkele, kalkkunaleikkele",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F033928,0.0,1004,False,False,False,"Omenasose, sokeroitu",0.0,0.0,0.0,0.32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.68,0.0,0.0,0.0
+F033928,0.0,1004,False,False,False,"Omenasose, sokeroitu",0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.97,0.0,0.0,0.0
 F034127,1.0,401,False,False,False,"Kevytmaito, valio maito plus, d-vitamiinia 2 ug",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034136,0.0,901,False,False,False,"Merilevä, nori, kuivattu",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034137,0.0,901,False,False,False,"Merilevä, wakame, kuivattu",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1742,7 +1742,7 @@ MT1076,0.0,107,False,False,False,"Välipalakeksi, täysjyväkeksi, Digestive, LU
 MT1077,0.0,1407,False,False,False,"Mehu, omena-päärynä täysmehu, pillimehu, Raikastamo",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT1078,0.0,1407,False,False,False,"Mehu, täysmehu, appelsiinituoremehu, luomu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT1079,0.0,106,False,False,False,"Mysli, granola, kaakao-vadelma, Pauluns, ei lisättyä sokeria",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT108,0.0,1004,False,False,False,"Vadelmainen omenasose, Rainbow",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT108,0.0,1004,False,False,False,"Vadelmainen omenasose, Rainbow",0.0,0.0,0.0,0.19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.81,0.0,0.0,0.0
 MT1080,1.0,404,False,False,False,"Juusto, parmesan, parmesaani, rasvaa 28%",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT1081,0.0,1407,False,False,False,"Täysmehu, tyrnitäysmehu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT1082,0.0,303,False,False,False,"Pellavansiemenrouhe, rouhittu pellava + puolukka, valo24",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1764,13 +1764,13 @@ MT1096,0.0,1403,False,False,False,"Kaakaojauhe, O'Boy less sugar, sokeroitu, vä
 MT1097,0.28,107,False,False,False,"Rostis, muna-riisi-piirakka, paistopisteeltä",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT1098,0.0,1406,False,False,False,"Mehu, omena päärynä mehu, Two Dads, pomppumehu, c-vitamiinia",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT1099,0.0,101,False,False,False,Riisipaperi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT110,0.0,1004,False,False,False,"Rainbow trooppinen sose, hedelmäsose",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT110,0.0,1004,False,False,False,"Rainbow trooppinen sose, hedelmäsose",0.0,0.0,0.0,0.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.83,0.0,0.0,0.0
 MT1100,0.0,1302,False,False,False,"Kastike, Hoi Sin kastike, Blue Dragon",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT1101,0.0,110,False,False,False,"Ruisleipä, tosi ohut tumma, Oululainen, reissumies",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 MT1102,0.0,1204,False,False,False,"Makeinen, vegaaninen fudge",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT1103,0.11,1302,False,False,False,"Pesto, vihreä pesto, Pirkka",0.0,0.11,0.26,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.01,0.0,0.0,0.0
 MT1104,0.0,905,False,False,False,"Sienisalaatti, vegaaninen, Vuorisalo",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT1105,0.0,1407,False,False,False,"Hedelmäsose, 100 % hedelmää, makeuttamaton",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT1105,0.0,1407,False,False,False,"Hedelmäsose, 100 % hedelmää, makeuttamaton",0.0,0.0,0.0,0.28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.72,0.0,0.0,0.0
 MT111,0.0,1201,False,False,False,"Danerolles croissant, voisarvi, vegaaninen, valmistamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT112,0.0,1601,False,False,False,"Ravintohiivahiutale, VitaM",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT113,0.0,303,False,False,False,"Tumma tahini, Foodin",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1974,7 +1974,7 @@ MT4022,0.0,302,False,False,False,"Soijavälipala, soijavalmiste, Alpro More Frui
 MT4023,0.0,107,False,False,False,"Muro, neljänviljanmuro, sokeroimaton, TalkMuru",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 MT4024,0.0,105,False,False,False,"Kauratortilla, MyllynParas",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT4025,0.0,105,False,False,False,"Planti kaurajuoma, maustamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.43,0.0,0.07,0.0,0.5,0.0,0.0,0.0
-MT4026,0.0,1004,False,False,False,"Piltti mangoinen hedelmäsose, 4 kk, lastenruoka",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MT4026,0.0,1004,False,False,False,"Piltti mangoinen hedelmäsose, 4 kk, lastenruoka",0.0,0.0,0.0,0.28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.72,0.0,0.0,0.0
 MT4027,0.0,1404,False,False,False,"Virvoitusjuoma, appelsiinin makuinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 MT4028,0.0,105,False,False,False,"Nyhtökaura, Gold&Green, maustettu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT4029,1.0,702,False,True,False,"Lihapulla, lihapyörykkä, Kivikylän",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
