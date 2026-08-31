@@ -866,7 +866,7 @@ F031233,0.0,301,False,False,False,"Papu, härkäpapu, keitetty",0.0,0.0,0.0,0.0,
 F031249,0.0,302,False,False,False,Tempeh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 F031252,0.0,101,False,False,False,"Riisikakku, riisikeksi",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.93,0.0,0.07,0.0,0.0,0.0,0.0,0.0
 F031253,0.0,101,False,False,False,Riisi-maissikakku,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F031256,0.45,103,False,False,False,"Pasta, tuorepasta, kananmunaa",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F031256,0.15,103,False,False,False,"Pasta, tuorepasta, kananmunaa",0.0,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.85,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031258,1.0,403,False,False,False,"Kermavaahto sokeroimaton, kotitekoinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031444,0.75,1802,True,False,False,"Kirjolohikeitto , teollinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031447,1.0,1801,False,True,False,Broilerisuikalekastike ruoanvalmistuskerma,,,,,,,,,,,,,,,,,,0.0
@@ -1004,7 +1004,7 @@ F032015,0.0,111,False,False,False,"Kaurapuuro, elovena, hedelmä-marja",0.0,0.0,
 F032023,0.25,1801,False,True,False,"Ateria-ainekset, pasta carbonara, kypsennetty",,,,,,,,,,,,,,,,,,0.0
 F032028,0.41,1801,False,True,False,"Lasagne, ateria-ainekset, sianliha",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032063,0.05,906,False,False,False,"Salaatti, punajuurisalaatti, saarioinen, majoneesia",,,,,,,,,,,,,,,,,,0.0
-F032066,0.05,906,False,False,False,"Salaatti, punajuurisalaatti, majoneesikastike, atria",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032066,0.03,906,False,False,False,"Salaatti, punajuurisalaatti, majoneesikastike, atria",0.0,0.0,0.0,0.0,0.03,0.22,0.0,0.0,0.0,0.0,0.0,0.0,0.59,0.0,0.16,0.0,0.0,0.0
 F032069,0.05,906,False,False,False,"Salaatti, punajuurisalaatti, kevyt, atria, majoneesikastike",,,,,,,,,,,,,,,,,,0.0
 F032071,0.0,106,False,False,False,"Mysli, kilomysli, pirkka",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032072,0.0,906,False,False,False,"Salaatti, aurinkosalaatti, hk",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1243,7 +1243,7 @@ F033067,0.0,1003,False,False,False,"Erikoishedelmä, eksoottinen, keskiarvo, man
 F033070,0.0,1003,False,False,False,"Viikuna, kuivattu",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033071,0.1,905,False,False,False,"Bataattisosekeitto, saarioinen, valmisateria",,,,,,,,,,,,,,,,,,0.0
 F033073,0.87,1802,True,False,True,"Katkarapukeitto, saarioinen, valmisateria",,,,,,,,,,,,,,,,,,0.0
-F033074,0.2,905,False,False,False,"Porkkanasosekeitto, saarioinen, valmisateria",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F033074,0.09,905,False,False,False,"Porkkanasosekeitto, saarioinen, valmisateria",0.0,0.0,0.0,0.0,0.0,0.54,0.09,0.0,0.0,0.0,0.0,0.0,0.37,0.0,0.0,0.0,0.0,0.0
 F033076,0.2,1801,False,True,False,"Thai-kanakeitto, saarioinen, valmisateria",,,,,,,,,,,,,,,,,,0.0
 F033077,0.0,1003,False,False,False,"Ananas, kuivattu",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033079,0.5,1801,False,True,False,"Broilerpasta, saarioinen, valmisateria",,,,,,,,,,,,,,,,,,0.0
@@ -1440,7 +1440,7 @@ F033848,0.2,1201,False,False,False,"Pulla, täytepitko, rainbow",,,,,,,,,,,,,,,,
 F033851,0.0,1406,False,False,False,"Kiisseli, mehukeitto, c-vitamiinia 40 mg, teollinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 F033852,1.0,402,False,False,False,"Piimä, rasvaton, valio eila laktoositon, d-vit 2 ug",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F033855,0.2,1201,False,False,False,"Marjapiirakka, mustikkapiiras, fazer",,,,,,,,,,,,,,,,,,0.0
-F033862,0.1,906,False,False,False,"Salaatti, coleslaw-salaatti, teollinen",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F033862,0.18,906,False,False,False,"Salaatti, coleslaw-salaatti, teollinen",0.0,0.15,0.0,0.0,0.03,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.57,0.0,0.0,0.0,0.0,0.0
 F033867,0.2,1201,False,False,False,"Pulla, täytepitko, pormestarinpitko, vadelma-omenatäye, vaasan",,,,,,,,,,,,,,,,,,0.0
 F033882,0.05,1101,False,False,False,"Margariini 80 %, flora kulta",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F033885,0.65,402,False,False,False,"Rahka, maustettu, profeel proteiinirahka, laktoositon",0.0,0.76,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.24,0.0,0.0,0.0
