@@ -529,7 +529,7 @@ F011087,0.0,303,False,False,False,"Tahini, seesamtahna, ei lisättyä suolaa",0.
 F011089,0.0,301,False,False,False,Kikherne suolattomassa vedessä,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 F011090,0.0,301,False,False,False,"Papu, valkoinen, tomaattikastike",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 F011092,1.0,401,False,False,False,"Herajauhe, teollisuuden raaka-aine",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F011095,0.05,1201,False,False,False,"Munkki, vesi, leipomo",0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.19,0.0,0.0,0.46,0.01,0.21,0.0,0.11,0.0,0.0,0.0
+F011095,0.02,1201,False,False,False,"Munkki, vesi, leipomo",0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.25,0.0,0.0,0.47,0.0,0.16,0.0,0.11,0.0,0.0,0.0
 F011110,0.2,1806,False,False,False,Kasvispihvi/pyörykkä,,,,,,,,,,,,,,,,,,0.0
 F011112,0.6,1801,False,True,False,Liha-makaronilaatikko teollinen,,,,,,,,,,,,,,,,,,0.0
 F011126,0.0,103,False,False,False,"Sekaleipä, vesi, graham-, ruis-, vehnäjauho",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
