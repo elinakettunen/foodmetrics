@@ -406,7 +406,7 @@ F001180,0.41,1201,False,False,False,"Marjapiirakka, muropohja, kermaviilitäyte"
 F001202,0.28,1201,False,False,False,"Kuivakakku, toscakakku",,,,,,,,,,,,,,,,,,0.0
 F001231,0.74,1201,False,False,False,"Pannukakku, kevytmaito",,,,,,,,,,,,,,,,,,0.0
 F001239,0.9,401,False,False,False,"Maitokastike, valkokastike, kevytmaito, rasva-jauhosuurus",,,,,,,,,,,,,,,,,,0.0
-F001244,0.38,1302,False,False,False,"Ruskea kastike, rasva-jauhosuurus",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+F001244,0.14,1302,False,False,False,"Ruskea kastike, rasva-jauhosuurus",0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.30,0.0,0.56,0.0,0.0,0.0,0.0,0.0
 F001295,0.0,103,False,False,False,"Vaalea leipä, hiivaleipä, vesi, hiivaleipäjauho",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F001309,0.0,103,False,False,False,"Vaalea leipä, patonki/ranskanleipä, vesi, vehnäjauho, teollinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F001336,0.0,103,False,False,False,"Sekaleipä, grahamleipä, vesi, hiivaleipä-, grahamjauho",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -441,7 +441,7 @@ F003237,0.0,905,False,False,False,Hillosipulisäilyke,0.0,0.0,0.0,0.0,0.0,0.0,0.
 F003265,0.26,1811,False,False,False,Tomaattikeitto,,,,,,,,,,,,,,,,,,0.0
 F003307,0.0,906,False,False,False,"Salaatti, lehtisalaatti-kurkku-tomaatti, vihersekasalaatti",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F003323,0.24,1302,False,False,False,"Pestokastike, yrttikastike",0.0,0.11,0.26,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.0,0.0,0.0,0.0,0.0
-F003337,0.05,201,False,False,False,"Salaatti, perunasalaatti, majoneesikastike",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F003337,0.05,201,False,False,False,"Salaatti, perunasalaatti, majoneesikastike",0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.30,0.0,0.0,0.65,0.0,0.0,0.0,0.0,0.0
 F003341,0.0,906,False,False,False,"Porkkana, keitetty, suolaa",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F003342,0.0,901,False,False,False,"Kukkakaali, keitetty, suolaton",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F003343,0.0,903,False,False,False,"Parsakaali, keitetty, suolaton",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -456,7 +456,7 @@ F004421,0.0,1002,False,False,False,"Puolukkasurvos, sokeriton",0.0,0.0,0.0,1.0,0
 F005001,0.05,1302,False,False,False,"Majoneesi, kotitekoinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F005003,0.0,1406,False,False,False,"Salaatinkastike, ranskalainen, kotitekoinen, öljy, mehu, sokeri ja suola",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F005008,0.0,1302,False,False,False,"Maustekastike, grillauskastike",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-F005900,0.2,1103,False,False,False,"Ruoanvalmistusrasva, keskiarvo",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+F005900,0.2,1103,False,False,False,"Ruoanvalmistusrasva, keskiarvo",0.0,0.0,0.0,0.0,0.0,0.0,0.20,0.0,0.0,0.0,0.0,0.0,0.80,0.0,0.0,0.0,0.0,0.0
 F005901,0.5,1103,False,False,False,"Pulla- ja piirakkarasva, voita 50 %, margariinia 50 %",0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
 F005902,0.34,1103,False,False,False,Kakkurasva,,,,,,,,,,,,,,,,,,0.0
 F005904,0.45,1103,False,False,False,Voitaikinarasva,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0,0.0,0.55,0.0,0.0,0.0,0.0,0.0
@@ -896,7 +896,7 @@ F031555,0.0,1002,False,False,False,"Granaattiomena, kuorittu",0.0,0.0,0.0,1.0,0.
 F031557,0.0,903,False,False,False,"Chili, vihreä, tuore",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031562,0.25,1201,False,False,False,Täytekakun pohja,,,,,,,,,,,,,,,,,,0.0
 F031566,0.27,1201,False,False,False,Kääretortun pohja,,,,,,,,,,,,,,,,,,0.0
-F031567,0.44,1201,False,False,False,Unelmatortun pohja,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F031567,0.25,1201,False,False,False,Unelmatortun pohja,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.21,0.08,0.0,0.0,0.46,0.0,0.0,0.0
 F031575,0.5,1201,False,False,False,"Kakku, mutakakku, kostea suklaakakku, frödinge, pakaste",,,,,,,,,,,,,,,,,,0.0
 F031576,0.32,1201,False,False,False,"Voikreemitäyte, unelmatortun täyte",0.0,0.0,0.0,0.0,0.0,0.0,0.32,0.0,0.0,0.0,0.0,0.0,0.68,0.0,0.0,0.0,0.0,0.0
 F031598,0.46,1201,False,False,False,"Kreemi, kakun kuorrute",,,,,,,,,,,,,,,,,,0.0
@@ -1502,7 +1502,7 @@ F034668,0.0,303,False,False,False,Siemensekoitus,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F034680,0.0,1002,False,False,False,Passionhedelmä,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034688,0.0,1402,False,False,False,"Kookosvesi, makeuttamaton",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034694,0.0,1002,False,False,False,"Papaija, kuorittu",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F034700,0.42,1302,False,False,False,"Salaatinkastike, caesarkastike",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F034700,0.09,1302,False,False,False,"Salaatinkastike, caesarkastike",0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.90,0.0,0.0,0.0,0.04,0.0
 F034701,0.0,103,False,False,False,Krutonki,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F034713,0.0,103,False,False,False,"Makaroni, täysjyvä",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 F034738,0.0,303,False,False,False,"Mantelijuoma, makeuttamaton, alpro",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
