@@ -845,7 +845,7 @@ F030796,1.0,703,False,True,False,"Broileri koipi-reisi, nahaton, grillattu",0.0,
 F030801,1.0,705,False,True,False,"Kokolihaleikkele, parmankinkku, ilmakuivattu kinkku, rasvaa 15 %",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F030818,0.0,901,False,False,False,"Vihersekasalaatti jäävuorisalaatti, tomaatti, kurkku",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F030914,0.0,903,False,False,False,"Fenkoli, salaattifenkoli",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F030925,0.05,1302,False,False,False,"Majoneesi, rasvaa 80 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+F030925,0.05,1302,False,False,False,"Majoneesi, rasvaa 80 %",0.0,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.96,0.0,0.0,0.0,0.0,0.0
 F030968,0.0,303,False,False,False,Pinjansiemen,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F030991,0.0,303,False,False,False,"Pellavansiemen, kokonainen",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031145,1.0,702,False,True,False,"Naudanlihasuikale, marinoitu, raaka",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -960,7 +960,7 @@ F031854,0.0,111,False,False,False,"Sekaleipä, puikula kaura, fazer",0.0,0.0,0.0
 F031856,0.0,103,False,False,False,"Paahtoleipä, arkipaahto vehnä, vaasan, vehnäjauho",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031857,0.0,103,False,False,False,"Paahtoleipä, arkipaahto graham, vaasan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031858,0.0,110,False,False,False,"Paahtoleipä, 100 % ruispaahto, vaasan, ruisjauho,-rouhe,-mallas,-kuitu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-F031860,0.05,103,False,False,False,"Sekaleipä, piimälimppu, vaasan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F031860,0.05,103,False,False,False,"Sekaleipä, piimälimppu, vaasan",0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.88,0.0,0.0,0.0,0.08,0.0,0.0,0.0
 F031861,0.0,103,False,False,False,"Paahtoleipä, isopaahto graham, grahampaahtoleipä, vaasan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031862,0.0,103,False,False,False,"Paahtoleipä, isopaahto monivilja, vaasan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F031863,0.0,103,False,False,False,"Sekaleipä, maalaisviipaleet, viipaloitu, vaasan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
