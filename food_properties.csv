@@ -221,14 +221,14 @@ F000541,0.0,1101,False,False,False,"Ruokaöljy keskiarvo, 87 % rypsi- 8 % auring
 F000542,0.0,1101,False,False,False,Soijaöljy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F000547,0.03,1101,False,False,False,"Leivontamargariini 80% juokseva, keskiarvo",,,,,,,,,,,,,,,,,,0.0
 F000552,0.0,1101,False,False,False,Kookosrasva 100 %,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F000562,0.05,1302,False,False,False,"Majoneesi, hampurilaiskastike, rasvaa 60 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+F000562,0.05,1302,False,False,False,"Majoneesi, hampurilaiskastike, rasvaa 60 %",0.0,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.96,0.0,0.0,0.0,0.0,0.0
 F000563,0.0,1302,False,False,False,Ranskalainen salaatinkastike,,,,,,,,,,,,,,,,,,0.0
 F000565,0.62,1103,False,False,False,Rasvaseos 40% vähäsuolainen kevyt levi,,,,,,,,,,,,,,,,,,0.0
 F000568,0.0,1101,False,False,False,"Margariini 60 %, rainbow/pirkka/eldorado/k-menu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F000570,0.62,1103,False,False,False,Rasvaseos 40% kevyt levi,,,,,,,,,,,,,,,,,,0.0
 F000572,0.0,1101,False,False,False,Margariini lätta 40%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F000576,1.0,1103,False,False,False,"Voi, suolaton",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F000578,0.05,1302,False,False,False,"Majoneesi, rasvaa 27-33 %",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+F000578,0.05,1302,False,False,False,"Majoneesi, rasvaa 27-33 %",0.0,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.96,0.0,0.0,0.0,0.0,0.0
 F000579,0.0,1302,False,False,False,"Salaatinkastike rasvaa <17%, vähärasvainen",,,,,,,,,,,,,,,,,,0.0
 F000593,0.0,1101,False,False,False,Leivontamargariini 80%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F000594,0.0,1101,False,False,False,"Kasvirasvalevite kevyt becel 35 % vähäsuolainen, laktoositon",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -453,7 +453,7 @@ F003710,0.0,302,False,False,False,"Soijapapu, keitetty, suolaton",0.0,0.0,0.0,0.
 F004401,0.0,1002,False,False,False,"Puolukkasurvos, sokeroitu",0.0,0.0,0.0,0.29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.71,0.0,0.0,0.0
 F004409,0.05,1405,False,False,False,Mehuhyytelö,,,,,,,,,,,,,,,,,,0.0
 F004421,0.0,1002,False,False,False,"Puolukkasurvos, sokeriton",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-F005001,0.05,1302,False,False,False,"Majoneesi, kotitekoinen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+F005001,0.05,1302,False,False,False,"Majoneesi, kotitekoinen",0.0,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.96,0.0,0.0,0.0,0.0,0.0
 F005003,0.0,1406,False,False,False,"Salaatinkastike, ranskalainen, kotitekoinen, öljy, mehu, sokeri ja suola",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F005008,0.0,1302,False,False,False,"Maustekastike, grillauskastike",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 F005900,0.2,1103,False,False,False,"Ruoanvalmistusrasva, keskiarvo",0.0,0.0,0.0,0.0,0.0,0.0,0.20,0.0,0.0,0.0,0.0,0.0,0.80,0.0,0.0,0.0,0.0,0.0
