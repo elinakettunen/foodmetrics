@@ -1002,7 +1002,7 @@ F032010,0.5,1204,False,False,False,"Jäätelö, kermajäätelö, jätskivene",,,
 F032013,0.0,111,False,False,False,"Kaurapuuro, omena-kaneli, elovena",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032015,0.0,111,False,False,False,"Kaurapuuro, elovena, hedelmä-marja",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 F032023,0.25,1801,False,True,False,"Ateria-ainekset, pasta carbonara, kypsennetty",,,,,,,,,,,,,,,,,,0.0
-F032028,0.41,1801,False,True,False,"Lasagne, ateria-ainekset, sianliha",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+F032028,0.41,1801,False,True,False,"Lasagne, ateria-ainekset, sianliha",0.0,0.26,0.0,0.0,0.0,0.03,0.0,0.03,0.29,0.0,0.33,0.0,0.06,0.0,0.0,0.0,0.0,0.0
 F032063,0.05,906,False,False,False,"Salaatti, punajuurisalaatti, saarioinen, majoneesia",,,,,,,,,,,,,,,,,,0.0
 F032066,0.03,906,False,False,False,"Salaatti, punajuurisalaatti, majoneesikastike, atria",0.0,0.0,0.0,0.0,0.03,0.22,0.0,0.0,0.0,0.0,0.0,0.0,0.59,0.0,0.16,0.0,0.0,0.0
 F032069,0.05,906,False,False,False,"Salaatti, punajuurisalaatti, kevyt, atria, majoneesikastike",,,,,,,,,,,,,,,,,,0.0
