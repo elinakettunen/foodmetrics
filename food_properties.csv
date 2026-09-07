@@ -1655,7 +1655,7 @@ MT096,0.0,,False,False,False,"Yakisobanuudeli soijapavuilla ja kasviksilla, kitc
 MT097,0.0,903,False,False,False,Kevätsipuli,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT098,0.0,,False,False,False,"Vegan mexican bean pot, papumuhennos, valmisateria, Atria",,,,,,,,,,,,,,,,,,0.0
 MT099,0.0,1302,False,False,False,Vihreä currytahna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-MT100,0.0,302,False,False,False,"Planti soijajuoma, lisätty kalsiumia ja vitamiineja",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+MT100,0.0,302,False,False,False,"Planti soijajuoma, lisätty kalsiumia ja vitamiineja",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.92,0.08,0.0,0.0,0.0
 MT1000,0.0,103,False,False,False,Bulgur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT1001,0.0,201,False,False,False,"Valio Oddlygood Veggie viipale, maustamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MT1002,0.0,303,False,False,False,"Cashew valkohomejuusto, Ilo, vegaaninen",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1673,7 +1673,7 @@ MT1012,0.0,302,False,False,False,"Soijajogurtti, maustettu, Alpro Greek Style Va
 MT1013,0.0,302,False,False,False,"Soijaleikkele, maustettu, Bon Soya",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
 MT1014,0.0,103,False,False,False,"Leipä, täysjyväpaahtoleipä, Oululainen, Reilu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 MT1015,0.0,302,False,False,False,"Soijauoma, Alpro Protein, maustamaton",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-MT1016,0.0,302,False,False,False,"Soijajuoma, Alpro Protein Caramel Coffee",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+MT1016,0.0,302,False,False,False,"Soijajuoma, Alpro Protein Caramel Coffee",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.72,0.28,0.0,0.0,0.0
 MT1017,0.0,105,False,False,False,"Kaurajuoma, Fazer Aito Barista, lisätty vitamiineja ja kivennäisaineita",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.65,0.0,0.34,0.0,0.01,0.0,0.0,0.0
 MT1018,0.0,105,False,False,False,"Kauravalmiste, Oatly iMat ruokaan, rasvaa 13%",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.77,0.0,0.0,0.0,0.0,0.0
 MT1019,0.0,1101,False,False,False,"Kasvirasvalevite 70 %, keiju merisuola, d-vit 20 ug",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
